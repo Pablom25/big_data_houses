@@ -1,0 +1,3821 @@
+addressID,address
+1,calle del Gobernador s/n
+2,calle de Serrano
+3,calle de Oltra
+4,Barrio Recoletos
+5,"calle de Triana, 35"
+6,calle del General Oráa
+7,calle del Duque de Rivas
+8,Barrio San Juan Bautista
+9,calle de Triana
+10,calle de Ayala
+11,calle del Marqués de la Ensenada
+12,Barrio El Viso
+13,Corredera Alta de San Pablo
+14,"calle de Buenavista, 44"
+15,calle de Antonio Zamora
+16,calle de Quesada
+17,calle de Santa Isabel
+18,"calle de San Buenaventura, 6"
+19,Barrio Malasaña-Universidad
+20,calle de Gravina
+21,calle de Hortaleza
+22,calle de Moratín
+23,calle del Prado
+24,calle Embajadores
+25,calle Imperial
+26,"calle de O'Donnell, 6"
+27,calle de O'Donnell
+28,paseo de la Castellana
+29,calle de los Artistas
+30,avenida de Menéndez Pelayo
+31,Barrio Almagro
+32,calle del Nuncio
+33,calle de Alonso Cano
+34,Barrio Virgen del Cortijo - Manoteras
+35,"calle de Guillermo de Osma, 4"
+36,calle San Anastasio
+37,"calle de Diego Bahamonde, 21"
+38,calle del Conde de Peñalver
+39,calle del Sombrerete
+40,calle del Amparo
+41,avenida de Canillejas a Vicálvaro
+42,glorieta de Ruiz Giménez
+43,"CL MOSCATELAR, 34"
+44,avenida del General Perón
+45,"calle de Cuchilleros, 3"
+46,"calle del Conde de Peñalver, 56"
+47,calle de las Islas Cíes
+48,calle del General Pardiñas
+49,calle de Narváez
+50,calle del Cid
+51,calle del Barco s/n
+52,paseo de la Dirección
+53,via Gran Vía
+54,calle de Evaristo San Miguel
+55,calle de Núñez de Balboa
+56,calle de la Hermandad
+57,"calle de Sodio, 1"
+58,Barrio Pinar del Rey
+59,"plaza de Cristino Martos, 4"
+60,calle de José Ortega y Gasset
+61,"calle de Herreros de Tejada, 10"
+62,"CARRETAS, 25"
+63,Barrio Castellana
+64,calle del Conde de Xiquena
+65,Barrio Comillas
+66,calle de Claudio Coello
+67,de martinez
+68,Barrio Valdezarza
+69,calle Francisco Salas
+70,calle del Meson de Paredes
+71,"calle de los Misterios, 57"
+72,calle de Perseo
+73,"calle Casimiro Mahou Bierhans, 25"
+74,"calle de Bordadores, 4"
+75,"calle de Ruiz Perelló, 7"
+76,calle del Padre Xifré
+77,paseo del Pintor Rosales
+78,Barrio Palacio
+79,calle de Sevilla
+80,calle de Medellín
+81,"avenida de los Arces, 11"
+82,calle Barcelona
+83,calle de Villanueva
+84,"calle de Rafael Herrera, 11"
+85,calle Luruaco
+86,calle de Granada
+87,avenida de la Peseta
+88,calle Velázquez
+89,calle del Desengaño
+90,calle de López de Hoyos
+91,"calle de O'Donnell, 22"
+92,Barrio Goya
+93,calle de El Españoleto
+94,calle de Lagasca
+95,calle de Jesús del Valle s/n
+96,PZ MOSTENSES
+97,"calle Anzuola, 5"
+98,avenida de Burgos
+99,calle de Miguel Moya
+100,calle de Rodríguez San Pedro
+101,calle de la Palma
+102,calle Diez
+103,calle de Blasco de Garay
+104,avenida de Nazaret
+105,calle de la Ribera de Curtidores
+106,"calle de Ciudad Real, 10"
+107,Barrio Nueva España
+108,calle de Cochabamba
+109,calle del Divino Pastor
+110,calle del Segre
+111,plaza del Niño Jesús
+112,avenida del Doctor Federico Rubio y Galí
+113,"calle de José Calvo, 1"
+114,avenida de la Ciudad de Barcelona
+115,travesía del Conde Duque
+116,"calle de Lagasca, 61"
+117,CL RAIMUNDO LULIO
+118,calle de Juan Bravo
+119,calle de Recoletos
+120,calle de Pelayo
+121,calle de Arrieta
+122,Barrio Lista
+123,calle de Echegaray
+124,"ronda de Segovia, 17"
+125,"calle de Sánchez Pacheco, 95"
+126,Barrio Prosperidad
+127,CL ABEDUL
+128,calle de Diego de León
+129,plaza de Cascorro
+130,paseo de Eduardo Dato
+131,calle de Francisco Silvela
+132,"calle Esteban Collantes, 37"
+133,calle de Santa Engracia
+134,"CL ARTURO SORIA, 127"
+135,calle de Luchana
+136,calle del Gobernador
+137,calle de Pavía
+138,calle de Columela
+139,"calle de El Españoleto, 7"
+140,glorieta Santa María de la Cabeza
+141,calle de Juan Esplandiú
+142,calle del Marqués de Encinares
+143,"calle de Palafox, 7"
+144,"calle de Orense, 53"
+145,"calle del Marqués de la Ensenada, 16"
+146,paseo de la Esperanza
+147,calle de Ibiza
+148,Barrio Huertas-Cortes
+149,calle de Lope de Vega
+150,calle de Colón
+151,CL MALLORCA
+152,calle de las Virtudes
+153,"calle de Julio Palacios, 2"
+154,"calle de Toledo, 69"
+155,"calle de Cavanilles, 60"
+156,avenida de Alberto Alcocer
+157,pasaje de Pradillo
+158,"plaza de Alonso Martínez, 11"
+159,calle Flora Tristán
+160,plaza Ciudad de Viena s/n
+161,calle Alonso Castrillo
+162,"calle Ciudad Rodrigo, 2"
+163,calle Tudelilla
+164,"calle de la Princesa, 3"
+165,"calle de Don Ramón de la Cruz, 107"
+166,calle del Príncipe de Vergara
+167,calle de Toledo
+168,calle de Cea Bermúdez
+169,"calle Castiello de Jaca, 1"
+170,"calle Velázquez, 115"
+171,"calle de Maldonado, 43"
+172,calle de Antonio Zamora s/n
+173,"calle de Embajadores, 156"
+174,calle de Génova
+175,Barrio Simancas
+176,paseo del Prado
+177,"calle de la Alfalfa, 29"
+178,calle Villa de Arbancón
+179,calle de José Abascal
+180,calle de Atocha
+181,"calle de Gerardo Cordón, 69"
+182,calle de Jesús del Valle
+183,calle de Hernán Cortés
+184,calle del Oso
+185,calle de Fernando VI
+186,calle de Castelló
+187,calle de Ruiz
+188,calle de Lagasca s/n
+189,"Velazquez, 146"
+190,"calle del Alcalde Sainz de Baranda, 17"
+191,"calle Aniceto Marinas, 14"
+192,calle de la Isla de Nelson
+193,CL FERNANDEZ DE LA HOZ
+194,calle de Fernández de la Hoz
+195,"calle Sófora, 21"
+196,calle de Andrés Mellado
+197,paseo del General Martínez Campos
+198,"calle de Alonso Cano, 13"
+199,de jaen
+200,plaza Bami
+201,calle de Don Ramón de la Cruz
+202,calle de Galileo
+203,calle de las Infantas
+204,"calle de Fuencarral, 16"
+205,"calle Estrella Hadar, 2"
+206,calle de Fernando el Católico
+207,san vicente ferrer
+208,calle de Mauricio Legendre
+209,"calle Alcalá, 155"
+210,"calle de Recoletos, 17"
+211,"calle del Desengaño, 12"
+212,calle de Palafox
+213,"calle del Amparo, 42"
+214,calle de Aurora Redondo
+215,Corredera Baja de San Pablo
+216,calle de Cuevas
+217,calle Núñez de Balboa
+218,"calle de Modesto Lafuente, Madrid"
+219,calle de los Madrazo
+220,calle de Benito Gutiérrez
+221,calle del Olimpo
+222,calle de Ángel Cavero
+223,CL LEON
+224,CL VALGAME DIOS
+225,calle de Casado del Alisal
+226,calle de Orense
+227,calle del Áncora
+228,"calle de las Huertas, 3"
+229,"calle espiritu santo, 12"
+230,calle de Cáceres
+231,calle de Velarde
+232,calle del Salitre
+233,"calle de Julián Besteiro, 35"
+234,calle de Fuencarral
+235,avenida de la Reina Victoria s/n
+236,calle de Canarias
+237,paseo de La Habana
+238,"calle de San Florencio, 5"
+239,plaza del Callao
+240,calle de Jorge Juan
+241,calle de Melchor Fernández Almagro
+242,"calle de Trujillos, 9"
+243,Barrio Vallehermoso
+244,calle del Calvario
+245,calle del Gasómetro
+246,"paseo de la Dirección, 176"
+247,calle de la Toronga
+248,"calle de Churruca, 2"
+249,calle de Tarragona
+250,calle Calatrava
+251,"calle de Londres, 39"
+252,"calle de Núñez de Balboa, 19"
+253,"paseo del Prado, 46"
+254,"calle de Lagasca, 78"
+255,avenida de Machupichu
+256,calle de Londres
+257,calle de las Huertas
+258,Barrio Ibiza
+259,calle de Hermosilla
+260,"Montera, 44"
+261,calle de las Margaritas
+262,PS IRUN
+263,CL COLEGIATA
+264,"via Gran Vía, 47"
+265,"calle de Aceuchal, 14"
+266,"calle de San Vicente Ferrer, 60"
+267,"avenida de la Ciudad de Barcelona, 45"
+268,"paseo de la Castellana, 249"
+269,calle de las Naves
+270,calle de Pedro Rico
+271,Almagro
+272,calle de Rabat
+273,calle de los Cañizares
+274,calle de Goya
+275,calle de Quero
+276,CL REYES MAGOS
+277,calle de San Bartolomé
+278,"CL ALCANTARA, 57"
+279,calle de Clara del Rey
+280,"calle de Lagasca, 67"
+281,calle del Doctor Fourquet
+282,"calle del Pez, 28"
+283,"CL SOMBRERERIA, 5"
+284,"calle de las Virtudes, 14"
+285,calle de Tribaldos
+286,calle de las Dos Hermanas
+287,"plaza Ciudad de Viena, 6"
+288,calle de San Ernesto
+289,Barrio Ventilla-Almenara
+290,calle del Corazón de María
+291,travesía del Almendro
+292,Hortaleza
+293,calle de María de Molina
+294,calle de Fernández de los Ríos
+295,"calle de Ocaña, 61"
+296,"calle de Pedro Antonio de Alarcón, 24"
+297,calle de Vallehermoso
+298,calle Gran Vía
+299,calle del Conde Duque
+300,"calle de José Ortega y Gasset, 90"
+301,calle de Luis Cabrera
+302,calle de Juan Álvarez Mendizábal
+303,"calle de la Pasa, 4"
+304,calle de Guzmán el Bueno
+305,Barrio Fuente del Berro
+306,"CL SANTA VIRGILIA, 16"
+307,calle de Juan de Olías
+308,calle de Fernando Higueras
+309,calle de Dulce Chacón
+310,calle de los Arcos
+311,"calle de Juan Bravo, 67"
+312,calle de María de Guzmán
+313,"calle de Martínez Izquierdo, 29"
+314,calle de Augusto Figueroa
+315,calle de Carretas
+316,"calle de José Ortega y Gasset, 64"
+317,calle de Cristóbal Bordiú
+318,"avenida de Manoteras, 38"
+319,"CL TORRECILLA DEL LEAL, 17"
+320,calle del Doctor Esquerdo
+321,calle Saliente
+322,calle de Pedro Barreda
+323,"calle de Orense, 29"
+324,calle del Pilar de Zaragoza
+325,calle Encomienda
+326,CL LUIS DE SALAZAR
+327,Barrio Adelfas
+328,calle Fernández de la Hoz
+329,calle de Silva
+330,calle de Agustín Durán
+331,calle de Antonio Gades
+332,calle de San Vicente Ferrer
+333,"calle de San Benito, 2"
+334,CL BAILEN
+335,calle de Bailén
+336,calle del Pinar
+337,calle de la Iglesia
+338,"calle de Rafael Herrera, 9"
+339,calle de Sancho Dávila
+340,calle de Eugenio Salazar
+341,calle de Embajadores
+342,calle de Julián Besteiro
+343,calle de María Reiche
+344,paseo de Juan Antonio Vallejo-Nájera Botas
+345,"calle de Agustín de Foxá, 26"
+346,Barrio Chueca-Justicia
+347,"avenida del General Perón, 32"
+348,calle de Menorca
+349,calle del Padre Jesús Ordóñez
+350,avenida de Felipe II
+351,"calle de la Coruña, 20"
+352,calle de Ponzano
+353,calle del Maestro Ripoll
+354,calle de Carlos Arniches
+355,CL VIRTUDES
+356,calle de Ríos Rosas
+357,calle de Eloy Gonzalo
+358,calle de Colomer
+359,CL MARCENADO
+360,calle de Fortuny
+361,"calle de Joaquín María López, 17"
+362,calle Jimena Menéndez Pidal
+363,"calle de Jorge Juan, 55"
+364,"CL IBIZA, 50"
+365,calle Comandante Benítez
+366,calle del Príncipe
+367,calle de Ramón de Santillán
+368,calle de Eraso
+369,calle de Francisco Navacerrada
+370,Barrio Nuevos Ministerios-Ríos Rosas
+371,calle de Mesena
+372,calle de Emilio Mario
+373,calle de Alcántara
+374,calle del Castillo
+375,calle del Alcalde Sainz de Baranda
+376,calle del Ventorrillo
+377,Barrio Costillares
+378,calle de Téllez
+379,calle del Cardenal Cisneros
+380,calle de Bravo Murillo
+381,calle del Poeta Joan Maragall
+382,calle del Pepion
+383,"CL ARQUITECTO GAUDI, 11"
+384,"calle de Colmenares, 7"
+385,calle de José María Fernández Lanseros
+386,calle de Argumosa
+387,paseo de las Delicias
+388,calle de Méjico
+389,"calle del Gasómetro, 11"
+390,travesía de las Beatas
+391,calle de Fuencarral s/n
+392,CL JOSE CASTAN TOBEÑAS
+393,calle del Doctor Juan José López Ibor
+394,calle de Bruno Ayllón
+395,"calle Velázquez, 146"
+396,avenida de los Arces
+397,"calle del Doctor Castelo, 22"
+398,calle de Añastro
+399,plaza Angel de Carbajo s/n
+400,calle de Monteleón
+401,"calle del Mesón de Paredes, 80"
+402,calle de Garcilaso
+403,calle del Marqués de Cubas
+404,calle de Ferrer del Río
+405,calle de Arturo Soria
+406,calle de Nuestra Señora de Valverde
+407,calle de Cádiz
+408,Donoso Cortés
+409,calle de Padilla
+410,"CL MAUDES, 9"
+411,calle de los Estudios
+412,calle de Benigno Soto
+413,calle de los Señores de Luzón
+414,"calle de Redecilla del Camino, 9"
+415,CL FRANCISCO SILVELA
+416,avenida de la Albufera
+417,plaza Ciudad de Viena
+418,calle de Irún
+419,"alonso cano, 53"
+420,"calle de Hermosilla, 157"
+421,calle de la Paz
+422,calle de Emilio Ortuño
+423,calle de Francisco Iglesias
+424,calle de José Picón
+425,calle Mendívil
+426,calle del Marqués Viudo de Pontejos
+427,calle de Enrique Larreta
+428,calle de la Infanta Mercedes
+429,paseo del Marqués de Zafra
+430,calle de Julio Palacios
+431,calle de la Constancia
+432,calle de Matilde Díez
+433,calle de San Dimas
+434,CL ARROYO FONTARRON
+435,"CL BARCO, 40"
+436,calle de la Princesa
+437,CL MARQUES DE LEGANES
+438,calle Eros
+439,"calle de Matilde Díez, 19"
+440,calle de la Batalla del Salado
+441,avenida de Alfonso XIII
+442,"calle de Lombía, 7"
+443,calle de Torrijos
+444,calle de los Peñascales
+445,calle de Sor Ángela de la Cruz
+446,calle de la Isla de Oza
+447,Barrio Cuzco-Castillejos
+448,calle de San Ildefonso
+449,"CL COCHABAMBA, 5"
+450,"calle de la Madera, 35"
+451,LEGANITOS
+452,Barrio Jerónimos
+453,calle del Caballero de Gracia
+454,Barrio Bernabéu-Hispanoamérica
+455,calle de Alcorisa
+456,calle del Doctor Sánchez
+457,plaza de Alonso Martínez
+458,calle de Marcenado
+459,calle de la Madera
+460,"calle Cuenca, 4"
+461,calle Puerto de la Magdalena
+462,avenida de José Antonio Corrales
+463,Barrio Niño Jesús
+464,avenida del Mediterráneo
+465,calle de Maldonado
+466,calle de Bretón de los Herreros
+467,"avenida de Bruselas, 43"
+468,calle de Javier Ferrero
+469,calle de Félix Boix
+470,"calle de García de Paredes, 78"
+471,calle de Montesa
+472,calle Nuestra Señora de Guadalupe
+473,calle Santa Isabel
+474,"calle del Ave María, 23"
+475,calle de Nicasio Gallego
+476,calle de las Mártires Concepcionistas
+477,calle de Rafael Calvo
+478,calle de la Estrella
+479,calle de Vicente Martín Arias
+480,Barrio Canillejas
+481,"paseo de la Chopera, 33"
+482,calle del Amor de Dios
+483,calle de Juan Hurtado de Mendoza
+484,calle de Jesús
+485,"CL BRAVO MURILLO, 120"
+486,Barrio Ciudad Jardín
+487,calle de Lombía
+488,"calle de Recoletos, 9"
+489,calle de San Pedro
+490,"calle Nicolás Godoy, 15"
+491,calle Pinos Alta
+492,calle de Maudes
+493,calle Embalse de Valmayor
+494,calle de Feijóo
+495,calle de Costa Rica
+496,"calle Alcalde López Casero, 15"
+497,"Corredera Alta de San Pablo, 4"
+498,calle de Ilustración
+499,calle de la Duquesa de Parcent
+500,ronda de Segovia
+501,paseo de los Melancólicos
+502,"costanilla de los Ángeles, 16"
+503,calle de Santo Tomé
+504,"calle de Guzmán el Bueno, 62"
+505,calle de Nuestra Señora de Guadalupe
+506,calle del Mediodía Chica
+507,calle de Alberto Aguilera
+508,calle de Raimundo Fernández Villaverde
+509,plaza Prosperidad
+510,"Gran Vía de Hortaleza, 5"
+511,calle Obanos
+512,calle Cóndor
+513,via Gran
+514,CL COSTA RICA
+515,calle Alcalá
+516,CL LOPE DE RUEDA
+517,avenida del Manzanares
+518,calle del General Díaz Porlier
+519,Barrio Acacias
+520,calle de Núñez Morgado
+521,calle de Antonio Zapata
+522,calle de Pablo Vidal
+523,calle Sófora
+524,calle de la Princesa de Éboli
+525,"calle de Juan Navarro, 27"
+526,"calle Ponzano, 57"
+527,calle Santa Valentina
+528,calle de Sánchez Pacheco
+529,"calle Henri Dunant, 23"
+530,"calle de Narváez, 59"
+531,AV PRUNOS
+532,"calle de Lagasca, 38"
+533,"calle de Santa Engracia, 77"
+534,"calle de Narciso Serra, 5"
+535,calle Pensamiento
+536,calle del Conde de Serrallo
+537,calle del Marqués de Lema
+538,calle de Vicente Muzas
+539,"calle de Jorge Juan, 43"
+540,calle de Suero de Quiñones
+541,"CL BRETON DE LOS HERREROS, 3"
+542,"ronda de Segovia, 15"
+543,Gran Vía
+544,calle de Fernán González
+545,calle de los Cabestreros
+546,calle de Dolores
+547,calle Santa Engracia
+548,calle de San Andrés
+549,"calle de Núñez de Balboa, 114"
+550,Barrio Estrella
+551,calle del Duque de Sesto
+552,calle de Francisca Moreno
+553,Barrio Lavapiés-Embajadores
+554,calle de Felipe IV
+555,calle de Valverde
+556,avenida de la Reina Victoria
+557,calle de Santa Hortensia
+558,calle de los Caños del Peral
+559,calle Manuel Garcia
+560,calle de Arganzuela
+561,calle de Trujillos
+562,calle del General Zabala
+563,calle de Almagro
+564,"PZ ESPAÑA, 6"
+565,Barrio Arapiles
+566,calle del Ave María s/n
+567,Barrio Sol
+568,CL ANA DE AUSTRIA
+569,"calle de Santa Julia, 28"
+570,"calle de Ciudad Real, 18"
+571,Cuevas
+572,calle Viloria de La Rioja
+573,Barrio Castilla
+574,"calle de Bustamante, 9"
+575,"calle de Villaamil, 38"
+576,"calle del Marqués de Mondéjar, 38"
+577,"calle Lucano, 44"
+578,calle del Conde de Aranda
+579,calle de la Ruda
+580,"calle Gabriel Lobo, 20"
+581,calle del Pico Cebollera
+582,calle Cerro Bermejo
+583,calle de Oreja
+584,avenida de Ramón y Cajal
+585,calle de la Infanta María Teresa
+586,Barrio Guindalera
+587,calle de Antonio Arias
+588,"calle Antonio González Porras, 3"
+589,calle de la Lechuga
+590,calle del Bastero
+591,"paseo de la Dirección, 161"
+592,"carretera de Castilla, 5800"
+593,avenida de Brasil
+594,"calle de Francisco Navacerrada, 15"
+595,avenida de la Gavia
+596,calle de la Ilusión
+597,calle San Cosme y San Damián
+598,"ronda de Segovia, 39"
+599,calle de Santiago Bernabéu
+600,calle de las Peñuelas
+601,"calle de la Colegiata, 4"
+602,calle de Alejandro Saint Aubin
+603,Barrio Ciudad Universitaria
+604,calle Almagro
+605,calle de Juan de Mena
+606,calle del Monte Esquinza
+607,"calle de Jorge Juan, 129"
+608,calle de Mira el Sol
+609,"calle de Juan Esplandiú, 6"
+610,Fuente de Torrejona
+611,Barrio Puerta del Ángel
+612,calle de Espronceda
+613,PALAFOX
+614,calle de los Jardines
+615,calle de Máiquez
+616,calle Corregidor Mendo de Zúñiga
+617,arapiles s/n
+618,Barrio Cuatro Caminos
+619,calle Vicente Martín Arias
+620,calle de San Enrique
+621,cuesta de San Vicente
+622,calle Pedro Barreda
+623,calle de Villalobos
+624,calle de Cebreros
+625,calle de Canillas
+626,calle José Ignacio Ávila
+627,calle de la Buganvilla
+628,Barrio Conde Orgaz-Piovera
+629,calle de Ricardo Ortiz
+630,plaza de los Mostenses
+631,calle de los Robles
+632,calle de Sánchez Preciado
+633,calle de Martínez Corrochano
+634,CL TOMAS BRETON
+635,"paseo de las Delicias, 9"
+636,calle de Cervantes
+637,calle de Gutiérrez Solana
+638,"calle de Juan Bravo, 7"
+639,"calle de Edgar Neville, 7"
+640,calle de Caravaca
+641,calle del Gorrión
+642,calle del General Aranaz
+643,"calle Mayor, 21"
+644,calle de San Aquilino
+645,calle de Potosí
+646,"calle de Euterpe, 17"
+647,calle de Orellana
+648,plaza Mayor
+649,"calle Obanos, 18"
+650,Barrio Aluche
+651,calle de los Dos Amigos
+652,glorieta de López de Hoyos
+653,calle del Limonero
+654,calle de los Morales
+655,calle de Ponferrada
+656,calle de Játiva
+657,calle de Lavapiés
+658,CL SAN HERMENEGILDO
+659,"calle de las Magnolias, 97"
+660,"calle del Conde de Serrallo, 1"
+661,calle de San Epifanio
+662,de Segovia
+663,"calle de José Ortega y Gasset, 12"
+664,"calle de Serrano, 62"
+665,plaza del Conde del Valle de Súchil
+666,paseo de San Francisco de Sales
+667,calle ZURBANO
+668,costanilla de San Andrés
+669,calle de Zurbarán
+670,calle de Viriato
+671,calle del León
+672,calle de San Marcos
+673,calle de Manuel de Falla
+674,calle de la Puebla
+675,calle de Béjar
+676,calle de Vinaroz
+677,calle de Martínez Izquierdo
+678,"avenida de Ramón y Cajal, 80"
+679,calle de San Lorenzo
+680,calle de Salustiano Olózaga
+681,calle del Doctor Santero
+682,calle de Alvarado
+683,"calle de Guzmán el Bueno, 80"
+684,calle del Sauce
+685,plaza de San Juan de la Cruz
+686,glorieta de Quevedo
+687,calle del Doctor Cortezo
+688,"calle de Dulcinea, 65"
+689,"calle de Francisco Silvela, 65"
+690,calle de Quintana
+691,calle de Belén
+692,"calle de las Margaritas, 3"
+693,CL ADANERO
+694,"calle de Toledo, 65"
+695,calle de la Sombrerería
+696,calle del Teniente Muñoz Díaz
+697,calle de la Ballesta
+698,calle de Carabelos
+699,calle de Murcia
+700,calle de Almadén
+701,calle del Conde de Miranda
+702,calle Torero
+703,calle de Albino Hernández Lázaro
+704,calle del Mesón de Paredes
+705,calle Juana Fuentes
+706,Barrio Tres Olivos - Valverde
+707,calle de Cicerón
+708,calle de Casto Plasencia
+709,calle de los Relatores
+710,calle de Almansa
+711,Barrio Salvador
+712,calle de Núñez de Arce
+713,calle de Calatrava
+714,calle Mayor
+715,calle de la Sal
+716,calle Galiana
+717,"calle de Ayala, 84"
+718,calle de San Agustín
+719,Barrio Palomas
+720,Barrio Quintana
+721,calle de García de Paredes
+722,calle de Barbieri
+723,Barrio Chopera
+724,Barrio Peñagrande
+725,Barrio Imperial
+726,calle del Olmo
+727,calle de la Fuente del Rey
+728,"calle de Peña de Francia, 8"
+729,"calle Tulipero, 6"
+730,"calle de garcía de paredes, 13"
+731,calle de Concepción Jerónima
+732,calle de Castilla
+733,de Evaristo San Miguel
+734,calle de Sagasta
+735,"calle de García de Paredes, 92"
+736,calle de Eguilaz
+737,CL SAN VICENTE FERRER
+738,Barrio Pueblo Nuevo
+739,calle de Federico Moreno Torroba
+740,"calle de la Sombrerería, 3"
+741,"calle de Loeches, 1"
+742,Concha Espina
+743,"calle del Príncipe de Vergara, 86"
+744,calle de Antonio Rodríguez Villa
+745,Barrio Gaztambide
+746,calle de San Alejandro
+747,calle del Henares
+748,calle Jesús de Polanco
+749,calle de Martínez de la Riva
+750,calle de Málaga
+751,Villanueva
+752,calle de Modesto Lafuente
+753,calle de Juan de Austria
+754,paseo del Comandante Fortea
+755,calle de Martín de los Heros
+756,calle de Juan Bautista de Toledo
+757,plaza Luca de Tena
+758,"calle del Labrador, 18"
+759,ronda de Valencia
+760,calle de Sanchorreja
+761,calle de las Fraguas
+762,calle de Manzanares
+763,"calle de López de Hoyos, 200"
+764,"calle Eduardo Benot, 4"
+765,calle de la Montera
+766,"calle Laín Calvo, 4"
+767,calle de Muñoz Torrero
+768,doctor gomez ulla
+769,paseo de las Acacias
+770,"calle de Mauricio Ravel, 3"
+771,"paseo del Marqués de Zafra, 28"
+772,"CL MINAS, 17"
+773,"calle de Santa Engracia, 169"
+774,"calle Cabeza, 30"
+775,"calle de Galileo, 14"
+776,"calle de Guzmán el Bueno, 102"
+777,"calle de Concepción Jerónima, 11"
+778,calle de la Cruz
+779,"calle de Montesa, 32"
+780,calle Machaquito
+781,"plaza Doctor Laguna, 4 -------2"
+782,calle de Leganitos
+783,calle de Ferraz
+784,"calle del Arenal, 22"
+785,"calle Alcalá, 431"
+786,calle de Narciso Serra
+787,"calle de las Maldonadas, 11"
+788,calle Peguerinos
+789,calle San Eudaldo
+790,"calle del Ave María, 20"
+791,calle de Alonso Heredia
+792,velázquez
+793,calle San Isidro Labrador
+794,calle Puenteareas
+795,calle del Barquillo
+796,"calle de la Jacaranda, 10"
+797,avenida del Ensanche de Vallecas
+798,calle del Puerto de Pozazal
+799,"calle de José Antonio Rebolledo y Palma, 23"
+800,calle de Sagasta s/n
+801,calle de Atocha s/n
+802,calle de Santa Brígida
+803,calle de la Santísima Trinidad
+804,calle del General Álvarez de Castro
+805,calle de Zurbano
+806,calle de Treviño
+807,calle de Cartagena
+808,"calle de González Amigo, 26"
+809,Francisco Navacerrada
+810,"calle de María Tudor, 10"
+811,"calle Isabel Clara Eugenia, 62"
+812,"calle Arturo Soria, 200"
+813,avenida del Marqués de Corbera
+814,calle de los Mártires de la Ventilla
+815,calle de Alfonso XII
+816,calle Rafael Bergamín
+817,paseo de Extremadura
+818,calle Laurin
+819,calle del Barco
+820,"calle del Bastero, 13"
+821,calle de Santa Teresa
+822,"calle de Cavanilles, 58"
+823,"calle de Yerma, 10"
+824,calle de la Anunciación
+825,CL JUAN DE MENA
+826,"calle de Maldonado, 40"
+827,calle de Miguel Aracil
+828,CL CACERES
+829,calle de Coslada
+830,calle de Rafael Salgado
+831,calle de Víctor Andrés Belaunde
+832,"calle de Mauricio Legendre, 38"
+833,calle del General Lacy
+834,"calle de Juan Sánchez, 17"
+835,"calle de Vallehermoso, 3"
+836,calle de Alberto Bosch
+837,"CL CASTELLO, 8"
+838,"calle de Méndez Álvaro, 43"
+839,"de Lope de Rueda, 44"
+840,Barrio Valdebebas - Valdefuentes
+841,calle de Estanislao Pérez Pita
+842,"avenida de San Luis, 25"
+843,calle del Molino de Viento
+844,"calle José María Lozano Sainz, 41"
+845,"calle del General Díaz Porlier, 33"
+846,calle del Río
+847,calle de Pastora Imperio
+848,"calle del León, 17"
+849,"calle de Isabel Clara Eugenia, 37"
+850,"calle de Isabel Clara Eugenia, 35"
+851,"calle de Almansa, 7"
+852,plaza de la Condesa de Gavia
+853,CL ANASTASIO AROCA
+854,avenida de la Victoria
+855,plaza Liceo
+856,"calle Anna Frank, 19"
+857,"calle Cantueso, 116"
+858,"calle del Doctor Fleming, 47"
+859,"calle de la Farmacia, 12"
+860,Barrio Argüelles
+861,"calle de las Viñas del Rio, 12"
+862,calle de Carmen Cobeña
+863,calle de Espoz y Mina
+864,calle de Bellver
+865,"calle de San Carlos, 6"
+866,calle del Doctor Fleming
+867,calle del Mediodía Grande
+868,"calle de García Luna, 20"
+869,"calle del Pintor Ignacio de Zuloaga, 6"
+870,calle de Alcalá
+871,calle de Nicaragua
+872,calle de la Primavera
+873,cuesta de Santo Domingo
+874,calle del General Ricardos
+875,"calle del Pintor Ignacio de Zuloaga, 4"
+876,CL ALBERTO AGUILERA
+877,"calle de López de Hoyos, 10"
+878,calle de Rafael de Riego
+879,calle de Caracas
+880,Barrio El Plantío
+881,calle del Moscatelar
+882,"calle Arroyo del Cañaveral, 64"
+883,paseo de la Florida
+884,"calle Arroyo del Cañaveral, 66"
+885,"calle del Pintor Ignacio de Zuloaga, 16"
+886,calle de Valcotos
+887,avenida de los Toreros
+888,calle de Arriaza
+889,calle Hermano Gárate
+890,"calle de Colombia, 2"
+891,calle de Galatea
+892,avenida Ahones
+893,calle del General Margallo
+894,"calle del Pintor Ignacio de Zuloaga, 2"
+895,"calle de Isabel Clara Eugenia, 39"
+896,"calle de Isabel Clara Eugenia, 41"
+897,"calle de las Viñas del Rio, 14"
+898,calle de Santa Ana
+899,"calle del Áncora, 20"
+900,calle de la Bolsa
+901,calle del Príncipe de Anglona
+902,calle de el Algabeño
+903,"calle del Doctor Castelo, 32"
+904,calle de San Pedro Mártir
+905,calle del Vizconde de Uzqueta
+906,calle de Almendrales
+907,calle de Campoamor
+908,"calle del Pintor Antonio Saura, 15"
+909,"calle de Isabel Clara Eugenia, 31"
+910,paseo de la Reina Cristina
+911,plaza de la Ciudad de Salta
+912,"calle del Pintor Ignacio de Zuloaga, 8"
+913,calle Manuel Fernández y González
+914,calle Cantueso s/n
+915,de Castelló
+916,calle el Tato
+917,"calle de Rafael Calvo, 31"
+918,calle de la Pasa
+919,"calle de Alcalá, 14"
+920,Barrio Trafalgar
+921,"calle de Isabel Clara Eugenia, 43"
+922,CL JOSE ABASCAL
+923,calle Torrelaguna
+924,Barrio Canillas
+925,calle de Enrique de Aldama
+926,"calle de Narváez, 9"
+927,"carretera de Colmenar a Alcobendas, Km 0,5 s/n"
+928,calle de Manuel Fernández y González
+929,calle de los Reyes
+930,Cava de San Miguel
+931,avenida de Miguel Delibes
+932,"Corredera Baja de San Pablo, 21"
+933,"plaza de la Sierra Carbonera, 2"
+934,calle de Diego Ayllón
+935,avenida del Papa Negro
+936,Barrio Horcajo
+937,calle del Capitán Blanco Argibay
+938,calle CASPE
+939,"Cava de San Miguel, 13"
+940,calle JAIME EL CONQUISTADOR
+941,"CL JUAN MARTIN EL EMPECINADO, 6"
+942,calle de Barcelona
+943,LAZO
+944,"calle Embajadores, 201"
+945,calle Alcatraz
+946,calle Augusto Figueroa
+947,Barrio El Cañaveral
+948,plaza de Burdeos
+949,avenida de Camilo José Cela
+950,calle de Ana de Austria
+951,calle del Doce de Octubre
+952,"calle de San Bernardo, 76"
+953,"calle Embalse de San Juan, 1"
+954,calle Segre
+955,calle san marcos
+956,calle de López Silva
+957,calle del Pintor Juan Gris
+958,plaza del Ángel
+959,calle del Espíritu Santo
+960,"Benjamín, 33"
+961,"calle de Vargas, 12"
+962,"calle de Nicolasa Gómez, 93"
+963,calle de Ángel Muñoz
+964,calle Amalia
+965,calle del Golfo de Salónica
+966,calle Puerto de Santa María
+967,"avenida de Menéndez Pelayo, 55"
+968,"calle del Toboso, 108"
+969,"calle de Mesena, 80"
+970,"calle de Zurbano, 84"
+971,CL AYALA
+972,calle del General Oraá
+973,calle Amaltea
+974,calle Bruno García
+975,"calle Mayor, 49"
+976,calle de Moratines
+977,calle de San Dacio
+978,calle Aliaga
+979,calle de la Aduana
+980,"calle de Ulises, 94"
+981,"calle de la Infanta Mercedes, 46"
+982,"calle de Moratín, 46"
+983,calle de Puerto de Santa María
+984,"calle Monasterio de Motesclaros, 4"
+985,"calle de Almagro, Madrid"
+986,calle del Mar de Japón
+987,"avenida del Monte Igueldo, 10"
+988,"calle de la Palma, 7"
+989,calle de Deyanira
+990,"calle Sierra Engarcerán, 12"
+991,"calle de Don Ramón de la Cruz, 74"
+992,calle del General Arrando
+993,"calle de Jesús del Valle, 8"
+994,calle de Pizarro
+995,"calle de Cervantes, 36"
+996,"calle de la Montera, 33"
+997,"calle de Sagunto, 15"
+998,"Segovia, 55"
+999,"calle de San Pedro, 13"
+1000,calle de San Germán
+1001,"calle del Doctor Esquerdo, 65"
+1002,"CL NUÑEZ DE BALBOA, 92"
+1003,"CL CHURRUCA, 2"
+1004,"calle de Ventura de la Vega, 14"
+1005,"avenida de la Gran Vía del Sureste, 53"
+1006,"calle del Doctor Castelo, 5"
+1007,calle de Cobos de Segovia
+1008,"calle Huertas del Rio, 1"
+1009,avenida pio xii
+1010,calle de Oviedo
+1011,calle de las Poderosas
+1012,calle de Marcos de Orueta
+1013,"calle de Villamanín, 39"
+1014,plaza de Olavide
+1015,"calle del General Oraá, 18"
+1016,calle de Alfonso X
+1017,plaza de Valparaíso
+1018,calle de Santa Clara
+1019,"calle de Cartagena, 22"
+1020,calle de Ángel Múgica
+1021,"calle ORENSE, 18"
+1022,calle de Donoso Cortés
+1023,CL ANTONIO CUMELLA
+1024,"calle de la Madreselva, 6"
+1025,CL PLOMO
+1026,calle Naciones
+1027,CL MANCHEGOS
+1028,calle de Luis Ruiz
+1029,calle de Reyes Aizquíbel
+1030,calle de la Escuadra
+1031,CL SARRIA
+1032,calle Eloy Gonzalo
+1033,Barrio Valdeacederas
+1034,calle de la Bendición de Campos
+1035,"calle del Monasterio de Caaveiro, 16"
+1036,CL COLOMBIA
+1037,"calle de la Magdalena, 23"
+1038,"avenida de los Rosales, 113"
+1039,"Corredera Baja de San Pablo, 7"
+1040,PS SANTA MARIA DE LA CABEZA
+1041,calle de Martínez
+1042,calle general martinez campos
+1043,calle Chaparral
+1044,"calle de Embajadores, 232"
+1045,Sodio
+1046,"calle Alcalá, 150"
+1047,"paseo de la Florida, 18"
+1048,CL EUGENIO SALAZAR
+1049,CL ALCALA
+1050,calle Esperanza Sánchez Carrascosa
+1051,calle del Duque de Sevilla
+1052,"Monasterio de caaveiro, 16"
+1053,ronda de Atocha
+1054,calle de Escalona
+1055,"calle Alonso Heredia, 32"
+1056,"calle del Poeta Joan Maragall, 19"
+1057,calle de San Jaime
+1058,"avenida de la Ciudad de Barcelona, 57"
+1059,calle Arévalo
+1060,calle de Juan Ramón Jiménez
+1061,"calle de Goya, 88"
+1062,calle del Mar de Aral
+1063,ronda Manuel Granero
+1064,calle de Sagunto
+1065,"Fuencarral, 117"
+1066,avenida de Moratalaz
+1067,"calle de Cartagena, 65"
+1068,calle Luisa Muriel
+1069,calle de Albasanz
+1070,Ponzano
+1071,calle de Víctor Hugo
+1072,Barrio San Pascual
+1073,calle de Ascao
+1074,Barrio Mirasierra
+1075,calle del Estrecho de Corea
+1076,"CL CENICERO, 6"
+1077,CL ENCOMIENDA DE PALACIOS
+1078,calle Arte
+1079,"avenida del Santuario de Valverde, 54"
+1080,calle de Caroli
+1081,"calle de Hortaleza, 26"
+1082,calle de la Esperanza s/n
+1083,"calle de Béjar, 7"
+1084,calle de Juan Pradillo s/n
+1085,"calle de Francisco Silvela, 79"
+1086,calle de Gaztambide
+1087,"calle de Jorge Juan, 151"
+1088,"calle de Vicente Camarón, 39"
+1089,"plaza de Manuel Becerra, 13"
+1090,calle Población de Campos
+1091,avenida de la Emperatriz Isabel
+1092,calle de Álvarez de Baena
+1093,calle del Pez
+1094,calle de Ginzo de Limia
+1095,CL REINA MERCEDES
+1096,calle de Tabernillas
+1097,"CL RAFAEL CALVO, 29"
+1098,Gran
+1099,calle de Velázquez
+1100,"calle Carlos Fernández Casado, 36"
+1101,"Manuel Fraga Iribarne, 141"
+1102,avenida del Cardenal Herrera Oria
+1103,Barrio Arroyo del Fresno
+1104,"paseo DE LA ESPERANZA, 22"
+1105,calle Villalar
+1106,"calle del Espíritu Santo, 29"
+1107,Belisana
+1108,paseo de Santa María de la Cabeza
+1109,calle de Numancia
+1110,calle de Colombia
+1111,"plaza del General Vara de Rey, 11"
+1112,"calle del Vizconde de Matamala, 1"
+1113,calle de Lagartijo
+1114,calle de Matilde Landa
+1115,calle de Pisueña
+1116,CL CLAUDIO COELLO
+1117,calle de Caramuel
+1118,CM ZARZUELA
+1119,"paseo Reina Cristina, 8"
+1120,"calle Colombia, 62"
+1121,"paseo de la Esperanza, 22"
+1122,"CARRETAS, 31"
+1123,"calle Carretas, 31"
+1124,calle de la Costa Brava
+1125,calle Abolengo
+1126,"calle de Ríos Rosas, 45"
+1127,"camino de Valderribas, 52"
+1128,calle Fuente del Tiro
+1129,calle de Ponce de León
+1130,"calle de Fernández de la Hoz, 58"
+1131,calle del Amor Hermoso
+1132,"calle de Génova, 9"
+1133,"calle de Barceló, 5"
+1134,"calle de Diego de León, 15"
+1135,"calle de Hermosilla, Madrid, 37"
+1136,"calle del General Margallo, 33"
+1137,"San Carlos, 6"
+1138,"calle de Altamirano, 25"
+1139,calle de la Farmacia
+1140,"calle de Lérida, 9"
+1141,"calle de Hermosilla, 103"
+1142,"plaza de la Cebada, 4"
+1143,"calle del Aviador Zorita, Madrid, 6"
+1144,"Edgar Neville, 32"
+1145,"calle Leon, 22"
+1146,"calle de Echegaray, 9"
+1147,calle del Genil
+1148,calle de la Fuente del Berro
+1149,calle de Alenza
+1150,calle de Mariano Fernández
+1151,calle de las Palomeras
+1152,"calle de Raimundo Fernández Villaverde, 23"
+1153,"calle Triunfo, 8"
+1154,"calle Marqués de Viana, 82"
+1155,"calle de los Madrazo, 22"
+1156,"calle del Conde de Aranda, 9"
+1157,calle Vicente Muzas
+1158,"calle de jorge juan, 21"
+1159,"de Leganés, 11"
+1160," de Leganés, 11"
+1161,plaza San Nicolas
+1162,"calle de Santa Engracia, 92"
+1163,"calle Mayor, 9"
+1164,"plaza de Pedro Zerolo, 11"
+1165,"calle de Atocha, 47"
+1166,"CL ANDRES MELLADO, 24"
+1167,"CL RAIMUNDO FDEZ VILLAVERDE, 16"
+1168,CL ALVARADO
+1169,calle de San Bernardo
+1170,"calle rafael calvo, 4"
+1171,"calle de Castelló, 47"
+1172,CL MESON DE PAREDES
+1173,calle Grañón
+1174,calle del Noviciado
+1175,calle del Marqués de Urquijo
+1176,calle Prensa
+1177,"calle de claudio coello, 38"
+1178,calle de la Academia
+1179,"Velázquez, 111"
+1180,"paseo de las Delicias, 60"
+1181,calle de Espalter
+1182,paseo del Rey
+1183,"calle del Monasterio de las Batuecas, 17"
+1184,"Jerónimo de la Quintana, 7"
+1185,CL ALAMEDILLA
+1186,"calle de Sinesio Delgado, 3"
+1187,calle Fernán González
+1188,"avenida del Doctor Federico Rubio y Galí, 6"
+1189,calle Bausá
+1190,calle de La Buenafuente
+1191,calle Magangué
+1192,"CL INFANTAS, 32"
+1193,avenida del Levante
+1194,calle del Marqués de Santa Ana
+1195,calle de Padre Damián
+1196,Poeta Joan Maragall
+1197,calle Velayos
+1198,plaza del Ángel s/n
+1199,calle de Mejía Lequerica
+1200,"calle de Javier Ferrero, 13"
+1201,"calle de Cristóbal Bordiú, 61"
+1202,calle del Doctor Castelo
+1203,CL RAFAEL HERRERA
+1204,CL AZULINAS
+1205,"CL AVIADOR ZORITA, 12"
+1206,Fernando Garrido
+1207,"calle Cavanilles, 58"
+1208,calle de Villajoyosa
+1209,plaza de España
+1210,calle de Esparteros
+1211,calle de Guecho
+1212,calle de la Magdalena
+1213,"calle de Alcalá, 157"
+1214,"calle de Núñez de Balboa, 42"
+1215,"calle de Jorge Juan, 92"
+1216,"Modesto Lafuente, 57"
+1217,"Juan Ramón Jiménez, 8"
+1218,plaza de Isabel II
+1219,avenida de Isabel de Valois
+1220,"calle de Padilla, 18"
+1221,"calle de Ana de Austria, 101"
+1222,"tetuan, 34"
+1223,"calle de Villanueva, 2"
+1224,"calle de Martín de los Heros, 23"
+1225,"calle de Colomer, 9"
+1226,"calle de Jorge Juan, 64"
+1227,Libertad
+1228,calle del Carmen s/n
+1229,"calle de San Germán, 10"
+1230,calle de Gonzalo de Córdoba
+1231,de la Toronga
+1232,calle de Wad-Ras
+1233,calle de Cedaceros
+1234,calle de la Virgen de los Peligros
+1235,calle del Duque de Osuna
+1236,calle Fuencarral
+1237,calle de Víctor de la Serna
+1238,calle de Lucio del Valle
+1239,paseo de la Alameda de Osuna
+1240,calle de Tomás López
+1241,calle de San Roque
+1242,calle de Ardemans
+1243,calle Don Ramón de la Cruz
+1244,calle Francisca Calonge
+1245,CL JUAN DE URBIETA
+1246,travesía Crossing Crossing de Belén
+1247,"calle de la Amnistía, 1"
+1248,calle de Noviembre
+1249,calle del Conde de Romanones s/n
+1250,"calle del Doctor Fleming, 43"
+1251,calle de Arganzuela s/n
+1252,calle Antonio Prieto s/n
+1253,"calle de Juan Álvarez Mendizábal, 10"
+1254,"calle de Bravo Murillo, 104"
+1255,"San Vicente Ferrer, 74"
+1256,"calle de Amaniel, 36"
+1257,"calle de Modesto Lafuente, 12"
+1258,avenida del Monasterio de Silos
+1259,calle de San Gregorio
+1260,calle de la Infanta María Teresa s/n
+1261,"calle de Raimundo Fernández Villaverde, 26"
+1262,Barrio Valdemarín
+1263,"calle de Modesto Lafuente, 7"
+1264,calle de Américo Castro
+1265,calle de San Mateo s/n
+1266,"calle de Blasco de Garay, 26"
+1267,Mayor
+1268,travesía del Doctor Sánchez
+1269,Fucar
+1270,CL JUAN HURTADO DE MENDOZA
+1271,calle del Marqués del Duero
+1272,calle Milmarcos
+1273,SAN MARCOS
+1274,calle del Molino de Viento s/n
+1275,"calle de José Ortega y Gasset, 67"
+1276,calle de Zorrilla
+1277,"calle de Hermosilla, 111"
+1278,"calle de Pirra, 14"
+1279,"calle de Ayala, 112"
+1280,avenida de Pío XII
+1281,"calle Lagasca, 38"
+1282,"plaza de Alcira, 15"
+1283,"calle de Torres Miranda, 20"
+1284,"calle de las Huertas, 1"
+1285,Barrio Bellas Vistas
+1286,de Embajadores
+1287,plaza de Tirso de Molina s/n
+1288,"calle de la Amnistía, 5"
+1289,"plaza de los Mostenses, 11"
+1290,calle Tántalo
+1291,de Juan Esplandiú
+1292,calle de Zabaleta
+1293,calle de Herreros de Tejada
+1294,Hermosilla
+1295,calle del Doctor Bellido
+1296,calle Manuel Álvarez
+1297,calle de Cavanilles
+1298,"travesía Conde Duque, 19"
+1299,calle Castillo de Candanchú
+1300,"calle de Sánchez Barcáiztegui, 33"
+1301,"calle Echegaray, 11"
+1302,calle de Pío Baroja
+1303,calle de la Luna
+1304,Lagasca
+1305,"calle de Julio Camba, 3"
+1306,calle de Avelino Montero Ríos
+1307,"calle de la Pasa, 10"
+1308,"calle de García de Paredes, 11"
+1309,calle de la Basílica
+1310,de Ayala
+1311,calle de Palos de la Frontera
+1312,"calle de Colombia, 61"
+1313,paseo de la Virgen del Puerto
+1314,calle Madera
+1315,"ronda de Segovia, 2"
+1316,"calle Imperial, 2"
+1317,"calle de Sagasta, 5"
+1318,"calle de Garellano, 15"
+1319,calle Antonia Calas
+1320,"calle de Juan de Herrera, 4"
+1321,"calle de la Bolsa, 12"
+1322,calle de Ramón Luján s/n
+1323,calle de Nicasio Gallego s/n
+1324,"calle de la Palmera, 12"
+1325,calle de Miguel Ángel
+1326,calle de Francisco Sancha
+1327,calle de Carmen Laforet s/n
+1328,calle de Antonia Mercé
+1329,calle de Villafranca
+1330,calle de las Veneras
+1331,calle de Fomento
+1332,calle del Ángel
+1333,calle de Marceliano Santa María
+1334,calle de Artesa de Segre
+1335,calle de Aguarón
+1336,calle de Colmenares
+1337,calle de Deusto
+1338,avenida de Fuentelarreina
+1339,calle de Francisco Ricci
+1340,avenida de Miraflores
+1341,calle de la Cava Baja
+1342,calle Doctor Balmis
+1343,calle de José Francisco Iturzaeta e Izaguirre
+1344,Genil
+1345,avenida de Valdemarín
+1346,avenida de Concha Espina
+1347,calle de Fernando Garrido
+1348,"avenida MARIA MERCEDES DE BORBON, 278"
+1349,"Calle Pérez Ayuso, 5"
+1350,avenida de Manoteras
+1351,"plaza General Vara de Rey, 11"
+1352,calle de las Maldonadas
+1353,"Luna, 9"
+1354,calle de Latoneros
+1355,"calle del Reloj, 16"
+1356,calle de Alcolea
+1357,calle Sierra de Cuerda Larga
+1358,"Carnero, 4"
+1359,puerta del Sol
+1360,calle del Pico Balaitus
+1361,calle del Cafeto
+1362,calle de Robledo
+1363,"CL LUNA, 9"
+1364,calle del Mar de Kara
+1365,"calle Navamures, 25"
+1366,calle de Jerez
+1367,calle del Padre Damián
+1368,calle de Ventura de la Vega
+1369,"calle de Maqueda, 113"
+1370,de Antonio Acuña
+1371,"calle de Irún, 15"
+1372,calle del Doctor Piga
+1373,"calle de San Germán, 12"
+1374,calle de la Peña Santa
+1375,Barrio Los Cármenes
+1376,"calle del Rosario, 23"
+1377,Barrio Aravaca
+1378,Barrio Pacífico
+1379,avenida de Peña Prieta
+1380,"calle Mirasierra, 7"
+1381,CL CERRO MINGUETE
+1382,"calle del Amparo, 43"
+1383,"calle Naciones, 3"
+1384,calle del Tutor
+1385,calle de María Pedraza
+1386,calle del Río Matarraña
+1387,calle de Vargas
+1388,"General Pardiñas, 28"
+1389,"calle de juan ramón jiménez, 8"
+1390,calle del Bronce
+1391,calle Miguel de la Roca
+1392,calle de Felipe Campos
+1393,"calle Algeciras, 1"
+1394,calle Antonio Cumella
+1395,avenida del Santo Ángel de la Guarda
+1396,calle de Isidro Fernández
+1397,calle de Siena
+1398,calle de Esteban Mora
+1399,calle de Sorolla
+1400,paseo de Marcelino Camacho
+1401,calle de Marcelino Álvarez
+1402,avenida de Monforte de Lemos
+1403,calle de los Hermanos García Noblejas
+1404,Barrio Concepción
+1405,calle del Conde de Romanones
+1406,"camino de Montoro, 20"
+1407,"calle de Juan Bravo, 63"
+1408,"Camino de Montoro, 20"
+1409,"plaza de Herradores, 6"
+1410,calle de Felipe V
+1411,Barrio Fuentelarreina
+1412,"calle salamanca, 20"
+1413,"calle de Carlota O’Neill, 27"
+1414,calle Piscis
+1415,Barrio Las Tablas
+1416,calle de Santa Elena
+1417,calle de Francisco Villaespesa
+1418,paseo de Recoletos
+1419,"paseo Esperanza, 22"
+1420,"paseo de la Castellana, 173"
+1421,"calle de Anastasio Aroca, 22"
+1422,calle de José Silva
+1423,CL DOCTOR CASTELO
+1424,calle de Yécora
+1425,"calle de Purchena, 67"
+1426,"calle del Conde de Romanones, 10"
+1427,calle de Tenerife
+1428,calle Guindos
+1429,Sainz De Baranda
+1430,travesía de la Parada
+1431,calle de Alustante
+1432,calle de Armengot
+1433,Barrio Sanchinarro
+1434,calle de la Cava Alta
+1435,calle de San Hermenegildo
+1436,costanilla de San Pedro
+1437,calle de Pablo Gargallo
+1438,calle de Serrano Anguita
+1439,calle de Ana María
+1440,calle de Isabelita Usera
+1441,estrella
+1442,calle de San Emilio
+1443,calle Grazia Deledda
+1444,calle del Acuerdo
+1445,"CL TAMPICO, 8"
+1446,de Maldonado
+1447,plaza de Matute
+1448,calle de Ricardo Damas
+1449,calle de María Teresa
+1450,calle de El Escorial
+1451,plaza de Tirso de Molina
+1452,"paseo del General Martínez Campos, 19"
+1453,"calle de Virgen del Val, 15"
+1454,calle del Águila
+1455,calle Laguna del Marquesado
+1456,calle Puerto de Miravete
+1457,calle de Hernani
+1458,calle de Ofelia Nieto
+1459,calle San Severo
+1460,"calle de Felipe IV, 12"
+1461,"calle Aguaron, 10"
+1462,"cuesta de San Vicente, 22"
+1463,CL AVE MARIA
+1464,"calle de Dulce Chacón, 25"
+1465,"calle del General Oráa, 18"
+1466,calle de Anastasio Aroca
+1467,calle de María Bosch s/n
+1468,calle Galería Vallehermoso
+1469,calle de los Reyes Magos
+1470,paseo Marqués de Zafra
+1471,calle de Gabriela Mistral
+1472,calle del Aviador Zorita
+1473,calle de Vicente Blasco Ibáñez
+1474,calle de Buenavista
+1475,calle de Aracne
+1476,"calle de Arturo Soria, 262"
+1477,"avenida de Brasil, 30"
+1478,"calle de Zurbano, 93"
+1479,"calle de López de Aranda, 18"
+1480,calle de Ángel Larra
+1481,calle del Conde de Vilches
+1482,calle de Zurita
+1483,"plaza de España, 18"
+1484,avenida de Portugal
+1485,plaza de Alcira
+1486,calle del Reloj
+1487,calle de Sáhara
+1488,calle del Conde de Vallellano
+1489,"calle del General Pardiñas, 103"
+1490,avenida de Córdoba
+1491,"calle de Postas, 24"
+1492,"calle Menéndez Pidal, 27"
+1493,"CL AMPARO, 69"
+1494,"calle de Agustina de Aragón, 10"
+1495,"calle de Fernán González, 20"
+1496,avenida de América
+1497,"calle de Abtao, 21"
+1498,calle de Ventura Rodríguez
+1499,"calle de Antonio Pérez, 4"
+1500,calle de Argensola
+1501,"calle de Don Ramón de la Cruz, Madrid, 107"
+1502,"calle de Goya, 27"
+1503,calle de Covarrubias
+1504,"plaza del Campillo del Mundo Nuevo, 4"
+1505,calle de Garcilaso s/n
+1506,calle Herrera
+1507,calle Manchegos
+1508,"calle de Don Ramón de la Cruz, 115"
+1509,calle del General Palanca
+1510,calle de Amaniel
+1511,calle de Azcona
+1512,"calle de Rufino Blanco, 14"
+1513,"calle Canarias, 15"
+1514,calle de Gabriel Usera
+1515,"calle de Manuel de Falla, 10"
+1516,"calle de Canarias, 3"
+1517,calle de Dulcinea
+1518,calle de la Reina
+1519,calle de Trafalgar
+1520,calle de Catalina Suárez
+1521,"calle de Ruiz, 14"
+1522,"calle de Claudio Coello, 116"
+1523,calle de Sandoval
+1524,"calle de Jorge Juan, 69"
+1525,"calle de la Fuente del Rey, 36"
+1526,calle de la Juguetería
+1527,calle del General Ampudia
+1528,"paseo de la Castellana, 211"
+1529,calle Zubieta
+1530,calle de los Misterios
+1531,calle de Teruel
+1532,calle de Francisco de Rojas
+1533,"calle de Lagasca, 52"
+1534,Virgen de Lourdes
+1535,calle de Antonio López
+1536,"calle de Alfonso Rodríguez Santamaría, 4"
+1537,"calle del Conde de Xiquena, 11"
+1538,"calle de Hermosilla, 41"
+1539,"calle del Barco, 19"
+1540,"calle del Sombrerete, 3"
+1541,"plaza de San Juan de la Cruz, 5"
+1542,plaza Castillo de la Mota
+1543,"calle de Santa Engracia, 65"
+1544,"calle del General Pardiñas, 61"
+1545,"calle de Ardemans, 58"
+1546,"calle de Sagasta, 20"
+1547,calle de las Aguas
+1548,"calle de Claudio Coello, 58"
+1549,"calle del Doctor Fleming, 33"
+1550,calle de los Andaluces del Pozo
+1551,calle de Calero Pita
+1552,"calle de Atocha, 40"
+1553,calle del Buen Suceso
+1554,"calle Ana de Austria, 101"
+1555,"calle del Conde de Xiquena, 6"
+1556,"calle de Santa Engracia, 43"
+1557,calle de la Encomienda
+1558,calle de Octavio Paz
+1559,calle Nuestra Señora de las Mercedes
+1560,"calle de Zurbano, 31"
+1561,calle de Luis Mitjans
+1562,calle de la Virgen de Aránzazu
+1563,"Don Ramon de la Cruz, 61"
+1564,"calle del Conde de Peñalver, 60"
+1565,"calle del Príncipe de Vergara, 80"
+1566,"Orense, 69"
+1567,"avenida Avenue del General Perón, 32"
+1568,"calle de Dulcinea, 40"
+1569,"calle de José Ortega y Gasset, 53"
+1570,calle de Antonio Pérez
+1571,calle de Carnicer
+1572,"calle Marqués de Viana, 101"
+1573,avenida de la Gran Vía del Sureste s/n
+1574,"avenida Monasterio de Silos, 24"
+1575,Barrio Legazpi
+1576,calle del Labrador
+1577,"calle de Modesto Lafuente, 75"
+1578,calle del Teniente Coronel Noreña
+1579,"calle de Arriaza, 4"
+1580,"calle de Argensola, 9"
+1581,calle Eduardo Minguito
+1582,calle de Callejo
+1583,calle de Rodrigo Uhagón
+1584,calle de Cardeñosa
+1585,plaza del Conde de Barajas
+1586,calle de Ramón Luján
+1587,calle de Josefina Aldecoa
+1588,calle del General Pintos
+1589,"calle de Garellano, 24"
+1590,calle del Doctor Carracido
+1591,calle del Tesoro
+1592,calle de los Urquiza
+1593,calle del Ferrocarril
+1594,"calle de San Bernabé, 22"
+1595,calle del Río San Lorenzo
+1596,calle de Berruguete
+1597,calle de Vicente Camarón
+1598,calle Carolina Coronado
+1599,calle de Guadarrama
+1600,calle de San Restituto
+1601,calle de San Filemón
+1602,"Carrera de San Francisco, 13"
+1603,calle de Carranza
+1604,calle de Francisco Alcántara
+1605,"calle de Segovia, 10"
+1606,calle de Santa Lucía
+1607,calle Manola y Rosario
+1608,calle Benjamín
+1609,plaza Puerto Rubio
+1610,"calle del Doctor Castelo, 14"
+1611,"CL AYALA, 88"
+1612,"calle del Marqués de Santa Ana, 15"
+1613,"calle de Don Ramón de la Cruz, 72"
+1614,"calle del Conde de Miranda, 1"
+1615,"CL FORTUNATA Y JACINTA, 9"
+1616,calle de Antonio Acuña
+1617,calle Casimiro Mahou Bierhans
+1618,calle de Josep Pla
+1619,TR VISTILLAS
+1620,calle Dracena
+1621,plaza de la República Argentina
+1622,calle del Conde de Cartagena
+1623,calle Marqués de la Valdavia
+1624,calle de Edgar Neville
+1625,calle de Piamonte
+1626,calle de Manuel Silvela
+1627,calle de Asunción Castell
+1628,calle de Jerónimo de la Quintana
+1629,calle Duque de Sesto
+1630,calle de Chinchilla
+1631,calle de Trueba y Fernández
+1632,calle de Agustina de Aragón
+1633,calle del Pensamiento
+1634,plaza del Descubridor Diego de Ordás
+1635,calle de Saturnino Calleja
+1636,calle de Manuel Cortina
+1637,"calle de Fernández de los Ríos, 68"
+1638,Barrio Palos de la Frontera
+1639,calle de Zurbano s/n
+1640,calle de Mauricio Ravel
+1641,calle de Fernando el Santo
+1642,plaza del Doctor Lozano
+1643,calle de Santa Feliciana
+1644,calle del Duque de Alba
+1645,calle del Doctor Blanco Soler
+1646,CL PEDRO RICO
+1647,calle de la Drácena
+1648,calle de la Libertad
+1649,avenida del Talgo
+1650,calle de Agustín de Foxá
+1651,avenida de Alberto de Alcocer
+1652,"calle Pinos Alta, 68"
+1653,"calle de la Infanta Mercedes, 98"
+1654,"calle del Mediodía Grande, 3"
+1655,"travesía del Conde Duque, 8"
+1656,calle de Vélez Rubio
+1657,Tirso de Molina
+1658,"calle Divino Pastor, 27"
+1659,"calle de Teruel, 40"
+1660,"calle de Hermosilla, 135"
+1661,"calle de Gonzalo de Córdoba, 15"
+1662,"calle Tucurinca, 6"
+1663,"calle de las Peñuelas, 43"
+1664,calle de Ercilla
+1665,"calle de Fuencarral, 26"
+1666,"avenida del Mediterráneo, 16"
+1667,"calle de Ardemans, 44"
+1668,"calle Istúriz, 14"
+1669,calle de Ocaña
+1670,calle de los Irlandeses
+1671,"calle del Marqués de Mondéjar, 37"
+1672,calle Santa Susana
+1673,"calle del Cardenal Cisneros, 73"
+1674,avenida Donostiarra
+1675,"calle silva, 4"
+1676,calle de la Moneda
+1677,calle del Monasterio de las Batuecas
+1678,"calle de Carlos Arniches, 8"
+1679,calle de Antonio Toledano
+1680,"calle de Buenavista, 42"
+1681,calle de Francisco Huesca
+1682,calle de San Bernardino
+1683,calle de José María Pemán
+1684,calle de Antoñita Jiménez
+1685,"calle del Marqués de Toca, 6"
+1686,"calle Cabestrero, 5"
+1687,"calle del Conde de Aranda, 23"
+1688,"plaza de Carlos Cambronero, 4"
+1689,"calle de Salamanca, 20"
+1690,"calle de Almagro, 14"
+1691,"calle de la Princesa, 26"
+1692,"calle de la Princesa, 60"
+1693,"calle de Canillas, 76"
+1694,"calle de la Infanta Mercedes, 48"
+1695,"travesía de las Beatas, 8"
+1696,calle Honduras
+1697,"calle de Goya, 79"
+1698,calle de los Yeros
+1699,"calle del Molino de Viento, 10"
+1700,"calle del Cardenal Cisnero, 76"
+1701,"CL DON RAMON DE LA CRUZ, 72"
+1702,"calle de Juan de Austria, 13"
+1703,"calle de Ayala, 156"
+1704,"calle de Claudio Coello, 28"
+1705,"calle de Ventura de la Vega, 15"
+1706,"calle del Oso, 5"
+1707,"calle de Ponzano, 57"
+1708,"calle de Carretas, 14"
+1709,"calle de las Viñas del Rio, 13"
+1710,"calle Fundadores, 21"
+1711,calle de Sánchez Barcáiztegui
+1712,"calle Embalse de San Juan, 7"
+1713,"calle Santa Valentina, 28"
+1714,calle de Andrés Antón
+1715,calle de Ruiz Perelló
+1716,CL NAVES
+1717,"ronda de Valencia, 14"
+1718,"paseo del Prado, 44"
+1719,avenida de Isabel de Valois s/n
+1720,calle de Espartinas
+1721,calle Aeronave
+1722,"plaza de Santa Ana, 5"
+1723,"calle de Toledo, 53"
+1724,"calle del General Pardiñas, 108"
+1725,calle de Moreto
+1726,avenida Doctor Federico Rubio y Gali s/n
+1727,"calle Felipe Fraile, 8"
+1728,"calle de Santa María de la Alameda, 11"
+1729,"calle de Arturo Soria, 267"
+1730,calle de San Bernabé
+1731,calle de Pradillo
+1732,calle del Marqués de Santa Ana s/n
+1733,"calle de Cobos de Segovia, 7"
+1734,calle de las Huertas s/n
+1735,calle de Raimundo Lulio
+1736,calle de Carvajales
+1737,calle de Matilde Hernández
+1738,calle del Tesoro s/n
+1739,"calle de Hilarión Eslava, 10"
+1740,"calle de Hermosilla, 22"
+1741,"calle Juan Hurtado de Mendoza, 11"
+1742,"calle de Fuencarral, 5"
+1743,"avenida Nuestra Señora de Fátima, 63"
+1744,"calle de Manresa, 27"
+1745,calle de la Villa
+1746,"avenida Ciudad de Barcelona, 51"
+1747,"calle de la Madera, 29"
+1748,"calle de San Fernando de Jarama, 2"
+1749,"calle de Núñez de Balboa, 93"
+1750,"calle del Olvido, 127"
+1751,"calle Ramírez de Prado, 12"
+1752,travesía Santiago Cordero
+1753,calle de Bocángel
+1754,"paseo de Extremadura, 92"
+1755,"calle de Villablanca, 73"
+1756,"calle de Guetaria, 108"
+1757,calle Carolinas
+1758,calle Limonita
+1759,calle del Limón
+1760,calle del Naranjo
+1761,"calle de Sagunto, 13"
+1762,"calle de Segovia, 8"
+1763,Barrio Almendrales
+1764,"calle comercial, 16"
+1765,"calle del Amparo, 40"
+1766,"calle de Ciudad Rodrigo, 2"
+1767,Barrio Entrevías
+1768,"paseo DE LOS MELANCOLICOS, 28"
+1769,"calle del Ángel, 10"
+1770,Barrio San Cristóbal
+1771,Barrio San Isidro
+1772,Barrio Los Rosales
+1773,Barrio Arcos
+1774,Barrio Casco Histórico de Vallecas
+1775,calle Colios
+1776,"calle del Espíritu Santo, 16"
+1777,Barrio Villaverde Alto
+1778,Barrio Águilas
+1779,Barrio Puerta Bonita
+1780,Barrio Vista Alegre
+1781,"calle del Marqués Viudo de Pontejos, 2"
+1782,"calle de Loreto y Chicote, 6"
+1783,calle Carretas
+1784,"calle de Alejandro Saint Aubin, 6"
+1785,calle Aduana
+1786,Barrio Amposta
+1787,"calle de Lagasca, 70"
+1788,Barrio San Diego
+1789,"calle de las Fraguas, 26"
+1790,Barrio Palomeras sureste
+1791,"calle del General Oraá, 49"
+1792,calle de Blas Cabrera
+1793,Barrio Alameda de Osuna
+1794,"calle de Cebreros, 76"
+1795,"calle Horizón, 1"
+1796,"calle del Amparo, 20"
+1797,"avenida del Manzanares, 102"
+1798,"calle de San Marcelo, 23"
+1799,calle del Abedul
+1800,calle del Conde de Torralba
+1801,"calle del Alcalde Sáinz de Baranda, 8"
+1802,Arriaza
+1803,calle de Torres Miranda
+1804,calle de las Hileras
+1805,Barrio Abrantes
+1806,calle de la Miosotis
+1807,calle de Gutierre de Cetina
+1808,"avenida de América, 24"
+1809,calle Don Quijote s/n
+1810,calle de Don Quijote s/n
+1811,"calle de Orense, 46"
+1812,"calle de la Paloma, 10"
+1813,"calle de Zurita, 19"
+1814,"paseo de la Castellana, 292"
+1815,"calle de Sanchorreja, 13"
+1816,"calle de Don Quijote, 22"
+1817,"calle Ministriles, 19"
+1818,"calle del Mesón de Paredes, 57"
+1819,"calle Luis Missón, 5"
+1820,"calle de Larra, 12"
+1821,"calle de la Moneda, 6"
+1822,San Bernardo
+1823,"calle del General Ricardos, 114"
+1824,"calle del Marqués de Leis, 9"
+1825,calle Princesa
+1826,"paseo de La Habana, 144 B"
+1827,"calle de Dulcinea, 24"
+1828,calle Ilustración
+1829,"calle de Tribulete, 5"
+1830,"paseo de Eduardo Dato, 11"
+1831,calle de Hilarión Eslava
+1832,calle de la Cruz Verde
+1833,"calle de la Colegiata, 18"
+1834,calle de Uruguay
+1835,"calle de Murcia, 30"
+1836,calle de la Povedilla
+1837,"paseo de la Tierra de Melide, 42"
+1838,"calle del General Lacy, 36"
+1839,calle de Dulce Chacón s/n
+1840,"calle de Fermin Donaire, 17"
+1841,"Los Madrazo, 7"
+1842,CL NICASIO GALLEGO
+1843,calle de Rodríguez Lázaro s/n
+1844,"calle de Leganitos, 35"
+1845,calle de Tortosa
+1846,"calle San Cosme y San Damián, 14"
+1847,"travesía DE ANDRES MELLADO, 3"
+1848,calle de Boix y Morer
+1849,"Sarria, 28"
+1850,"calle de Mejía Lequerica, 5"
+1851,"paseo del Rey, 22"
+1852,"CL PEZ, 29"
+1853,"plaza de Chueca, 9"
+1854,calle de Carlos Dabán
+1855,calle Fernando Poo
+1856,Corredera baja de san pablo
+1857,"calle de Ríos Rosas, 44"
+1858,"calle del Toboso, 15"
+1859,"paseo de la Castellana, 123"
+1860,"paseo de las Delicias, 36"
+1861,"calle de San Vicente Ferrer, 48"
+1862,calle de Santa Cruz de Marcenado
+1863,calle de Fernán González s/n
+1864,calle Islas Jarvi
+1865,calle de San Marcos s/n
+1866,calle de Salamanca
+1867,"calle del General Pardiñas, 22"
+1868,"calle de Juan Montalvo, 12"
+1869,"calle de Pedro Teixeira, 10"
+1870,calle de Rafael Herrera
+1871,calle de Roberto Domingo
+1872,"calle de la Huerta del Bayo, 2"
+1873,calle Londres
+1874,"calle de Bretón de los Herreros, 27"
+1875,"calle de Barbieri, 7"
+1876,"calle de Marcenado, 35"
+1877,"calle de Ibiza, 19"
+1878,avenida Avenue de la Ciudad de Barcelona
+1879,"de Lucio del Valle, 9"
+1880,"calle de Andrés Mellado, 76"
+1881,"calle de Toledo, 77"
+1882,calle de Gómez de Avellaneda
+1883,calle de Julián Camarillo
+1884,"Corredera Baja de San Pablo, 39"
+1885,calle de Montoya
+1886,"calle de Fernán González, 25"
+1887,calle de los Libreros
+1888,avenida de Asturias
+1889,calle de Luis Villa
+1890,"paseo de la Castellana, 228"
+1891,"calle del Acuerdo, 24"
+1892,"calle de Cádiz, 7"
+1893,calle de José Celestino Mutis
+1894,"calle de la Montera, 13"
+1895,"calle de Mesonero Romanos, 6"
+1896,"calle Bahía de Almería, 30"
+1897,"calle Alcalá, 25"
+1898,"calle del Duque de Sesto, 11"
+1899,"calle de García de Paredes, 25"
+1900,calle del Carnero
+1901,"calle Pinos Alta, 28029, Madrid"
+1902,"CL TOLEDO, 77"
+1903,calle de Santa María
+1904,calle de Aldea del Fresno
+1905,calle Almonte
+1906,"calle de Castelló, 44"
+1907,"calle de Núñez de Balboa, 64"
+1908,"CL EMBAJADORES, 148"
+1909,calle de Galicia
+1910,calle del Correo
+1911,calle de San Benito
+1912,calle de Juanelo s/n
+1913,"calle de Sodio, 3"
+1914,"calle de Santa Engracia, 120"
+1915,plaza Doctor Laguna
+1916,"Topete, 14"
+1917,"CL ILLESCAS, 145"
+1918,avenida de la Osa Mayor
+1919,"calle de Martínez, 7"
+1920,"calle del Pico Moncayo, 13"
+1921,calle de las Matas
+1922,"calle de la Alberca, 9"
+1923,"calle del León, 8"
+1924,"avenida de Manoteras, 30"
+1925,"CL SANTA ANA, 6"
+1926,calle de Puentedey
+1927,"calle de Embajadores, 148"
+1928,calle de Santa Isabel s/n
+1929,"calle de Santa Ana, 8"
+1930,"calle de Antonio Mairena, 4"
+1931,calle del Olivar
+1932,"calle de Lavapiés, 51"
+1933,calle de Pedro Heredia
+1934,"Almansa, 100"
+1935,"calle de Apodaca, 20"
+1936,carretera Fuencarral a Alcobendas
+1937,calle Rafael Bergamin
+1938,calle de Herminio Puertas
+1939,calle de Ceferino Rodríguez
+1940,"calle de Estanislao Figueras, 5"
+1941,calle Corredera Baja de San Pablo
+1942,calle de Segovia
+1943,calle Picos de Europa
+1944,"calle Apodaca, 20"
+1945,calle de San Antonio
+1946,"calle de Puente la Reina, 29"
+1947,calle de Alfredo Marqueríe
+1948,"de los Coloreros, 2"
+1949,calle Fernando Sexto
+1950,"calle de Don Ramón de la Cruz, 48"
+1951,calle de Rodas
+1952,"calle de Alburquerque, 3"
+1953,"calle de Santa Ana, 6"
+1954,calle de José Luis Pécker
+1955,calle de Alfacar
+1956,calle de Pamplona
+1957,"calle del Doctor Castelo, 33"
+1958,calle de Emilio Vargas
+1959,calle Mauregato
+1960,"calle del Salitre, 28"
+1961,calle de Peñaranda de Bracamonte
+1962,Barrio Pradolongo
+1963,calle de Hermenegildo Bielsa
+1964,plaza del Marqués de Salamanca
+1965,carretera Barrio de la Fortuna
+1966,calle de Guillermo Rolland
+1967,"avenida de Canillejas a Vicálvaro, 48"
+1968,"calle de Hernani, 37"
+1969,Barrio Los Ángeles
+1970,Barrio Palomeras Bajas
+1971,calle de Valderribas
+1972,Barrio Portazgo
+1973,"calle de la Luna, 3"
+1974,"calle Salcedo, 7"
+1975,Barrio Zofío
+1976,"paseo de la Infanta Isabel, 7"
+1977,Barrio Orcasitas
+1978,"calle del Golfo de Salónica, 40"
+1979,"calle de Potosí, 4"
+1980,Almaden
+1981,"calle de Bailén, 15"
+1982,calle de Villaamil
+1983,Barrio Buena Vista
+1984,Barrio Numancia
+1985,calle Cerro del Murmullo
+1986,Barrio Casco Histórico de Barajas
+1987,calle Alejandrina Moran
+1988,"calle de Santa Engracia, 4"
+1989,"calle de José Silva, 19"
+1990,Principe de Vergara
+1991,de Hermosilla
+1992,"calle de las Maldonadas, 10"
+1993,calle de Mateo García
+1994,plaza de Jacinto Benavente
+1995,calle de Molina
+1996,Barrio San Fermín
+1997,Conde de Peñalver
+1998,"VELARDE, 5"
+1999,"calle Francisco Santos, 25"
+2000,"calle de José Silva, 17"
+2001,"del Pico de la Golondrina, 39"
+2002,Barrio Ventas
+2003,plaza de Santa Bárbara
+2004,calle de Ciudad Real
+2005,avenida del Manzanares s/n
+2006,SOMBRERERIA
+2007,"calle de las Maldonadas, 9"
+2008,via Carpetana
+2009,"calle del Conde de Vilches, 16"
+2010,"calle de Alonso Cano, 92"
+2011,calle de José Antonio de Armona
+2012,"calle Fundadores, 7"
+2013,"calle de Galileo, 26"
+2014,"calle de El Españoleto, 6"
+2015,"calle de Alfonso XII, 19"
+2016,"calle de Bailén, 37"
+2017,Mediodía Grande
+2018,"AV BURGOS, 16"
+2019,"paseo de la Chopera, 35"
+2020,"calle de Santa Engracia, 160"
+2021,"pasaje de Pradillo, 3"
+2022,"calle de los Gallegos, 51"
+2023,"calle de José Abascal, 21"
+2024,"calle del Águila, 23"
+2025,calle Triunfo
+2026,"calle de Sinesio Delgado, 13"
+2027,"calle de José Ortega y Gasset, 63"
+2028,"calle de Benito Gutiérrez, 5"
+2029,"calle de O'Donnell, 3"
+2030,calle de Alejandro Ferrant
+2031,calle de Illescas
+2032,calle de Benidorm
+2033,"avenida de la Ciudad de Barcelona, 55"
+2034,"glorieta de Ruiz Giménez, 5"
+2035,calle Felipe Fraile
+2036,"avenida de Manoteras, 37"
+2037,"calle Santa Valentina, 26"
+2038,"calle de Orense, 6"
+2039,"calle de Blasco de Garay, 29"
+2040,"calle de Santa Juliana, 58"
+2041,calle de Meléndez Valdés
+2042,calle de Abtao
+2043,"calle del General Díaz Porlier, 34"
+2044,"calle de Medina del Campo, 4"
+2045,"calle de San Hermenegildo, 14"
+2046,calle de José Antonio Navarrete
+2047,CL JOAQUIN COSTA
+2048,"calle de Eduardo Benot, 5"
+2049,calle del Doctor Fleming s/n
+2050,calle Tutor
+2051,"calle de Esparteros, 1"
+2052,calle del Caballero de Gracia s/n
+2053,"calle de Claudio Coello, 24"
+2054,"CL VARGAS, 9"
+2055,"Blasco de Garay, 14"
+2056,"calle de Rosendo Conde, 17"
+2057,"calle de Benito Gutiérrez, 8"
+2058,calle de Altamirano
+2059,"calle de Fomento, 31"
+2060,"calle del Mesón de Paredes, 59"
+2061,"calle de Dulcinea, 53"
+2062,"CL TOMAS BRETON, 48"
+2063,"CL ANCORA, 7"
+2064,"CL SALAMANCA, 24"
+2065,"calle de la Palma, 51"
+2066,"calle de María Pedraza, 37"
+2067,"calle del Alcalde Sainz de Baranda, 9"
+2068,"calle del Duque de Rivas, 3"
+2069,"calle de Modesto Lafuente, 80"
+2070,"calle de Robert Capa, 10"
+2071,"avenida de la Ciudad de Barcelona, 33"
+2072,calle Ruiz Palacios
+2073,calle Paradores
+2074,calle de Pérez Herrera
+2075,"calle del Gran Poder, 34"
+2076,"calle de Villanueva, 35"
+2077,calle de Hartzenbusch
+2078,calle de Alvarado s/n
+2079,"paseo Talleres, 18"
+2080,"calle del Oso, 3"
+2081,"calle de Ana de Austria, 53"
+2082,"calle de Recoletos, 7"
+2083,paseo de los Pontones
+2084,claudio coello
+2085,calle de Fermín Caballero
+2086,calle de Prim
+2087,"calle de Los Molinos, 13"
+2088,"calle de Francisco de Rojas, 1"
+2089,"calle de Carlos y Guillermo Fernández Shaw, 2"
+2090,"CL BAILEN, 15"
+2091,calle Pan y Toros
+2092,calle Estrella Hadar
+2093,calle de Espronceda s/n
+2094,calle de Alejandro Villegas
+2095,calle Manzana
+2096,"calle San Martín de Porres, 14"
+2097,Gran Vía de Hortaleza
+2098,ronda de Sobradiel s/n
+2099,toledo
+2100,calle de Isla de la Gomera
+2101,calle castello
+2102,Carrera de San Jerónimo
+2103,calle de Brescia
+2104,calle de San Lucas
+2105,calle Villafranca
+2106,calle de Rufino Blanco
+2107,calle de Cuchilleros
+2108,"calle de Lagasca, 27"
+2109,"CL FERNAN GONZALEZ, 67"
+2110,"calle de Vargas, 3"
+2111,"calle de la Madera, 17"
+2112,"plaza de Santa Ana, 10"
+2113,"calle Algete, 10"
+2114,"paseo de la Castellana, 166"
+2115,"calle Doctor Balmis, 3"
+2116,"calle de Atocha, 116"
+2117,calle de Bordadores
+2118,"calle de Lagasca, 128"
+2119,bravo murillo
+2120,calle del Maestro Arbós s/n
+2121,calle de José María de Castro
+2122,"calle de Roda de Bará, 2"
+2123,AV CIUDAD DE BARCELONA
+2124,paseo de Moret
+2125,"calle de San Blas, 3"
+2126,"gaztambide, 80"
+2127,"Bravo Murillo, 52"
+2128,"calle de María de Molina, 66"
+2129,"calle Alcalá, 266"
+2130,"príncipe de vergara, 97"
+2131,"ibiza, 74"
+2132,"calle de Manuel Luna, 2"
+2133,calle de los Coloreros
+2134,"calle de Lagasca, 72"
+2135,"calle de Núñez de Arce, 14"
+2136,"calle de Potosí, 10"
+2137,"calle de Ruiz de Alarcón, 16"
+2138,"calle de Colomer, 8"
+2139,"calle de Padilla, 6"
+2140,"calle de Fuencarral, 9"
+2141,"calle de Bravo Murillo, 5"
+2142,calle de Jerte
+2143,"calle de Ana de Austrias, 101"
+2144,"calle de Lagasca, 63"
+2145,"calle de Don Ramón de la Cruz, 80"
+2146,calle de Jorge Manrique
+2147,calle Coloreros
+2148,calle Tenerife
+2149,calle de la Alameda
+2150,calle de Santa Susana
+2151,"calle del Almirante, 18"
+2152,calle de los Tres Peces
+2153,"calle de lagasca, 138"
+2154,calle de Timoteo Domingo
+2155,"calle Ayala, 17"
+2156,"calle de la Madera, 28"
+2157,"calle de José Ortega y Gasset, 88"
+2158,"plaza san nicolas, 2"
+2159,calle de Lope de Rueda
+2160,"calle fernanflor, 6"
+2161,calle Alfonso XII
+2162,"plaza de España, Madrid, 18"
+2163,"calle Valverde, 1"
+2164,"Recoletos, 17"
+2165,"calle de Alcalá, 128"
+2166,calle de Altea
+2167,"calle de Ponzano, 39"
+2168,"calle de Ayala, Madrid, 55"
+2169,"paseo de Recoletos, 10"
+2170,calle Lagasca
+2171,"Ruiz de alarcon, 16"
+2172,"calle del General Pardiñas, Madrid, 42"
+2173,"calle de Andrés Tamayo, 6"
+2174,"calle Blanca de Navarra, 10"
+2175,calle de Juan de Urbieta
+2176,"calle Almirante, 3"
+2177,"calle de Echegaray, 27"
+2178,"calle de Edgar Neville, 28"
+2179,"calle de la Salvia, 4"
+2180,CL CARRANZA
+2181,Santa Ana
+2182,"Conde de Cartagena, 12"
+2183,"Francisco Silvela, 87"
+2184,"calle del Conde de Peñalver, 63"
+2185,calle del Cerro Minguete
+2186,"calle de San Lorenzo, 16"
+2187,"Doctor Mata, 3"
+2188,"Casado del Alisal, 16"
+2189,"calle del Doctor Severo Ochoa, 44"
+2190,"calle Montevideo, 28"
+2191,glorieta de Rubén Darío
+2192,"Castello, 35"
+2193,"calle de Fernando VI, 19"
+2194,calle Bidasoa
+2195,"calle de Lope de Vega, 31"
+2196,calle de Santa Virgilia
+2197,"calle de Recoletos, 13"
+2198,"calle de Santa Engracia, 139"
+2199,"calle de lagasca, 53"
+2200,"calle de Ponzano, 76"
+2201,"Villanueva, 19"
+2202,"calle del Príncipe de Vergara, 26"
+2203,"calle de Velázquez, 87"
+2204,"calle de Maldonado, 7"
+2205,calle de Villavaliente
+2206,"calle de Alonso Cano, 90"
+2207,calle de Apodaca
+2208,"calle de Olid, 3"
+2209,"calle Herreros de Tejada, 20"
+2210,"calle de Jerónimo de la Quintana, 7"
+2211,"calle Amor de dios, 5"
+2212,"calle de Gravina, 21"
+2213,"calle de Galileo, 9"
+2214,calle del Valle del Silencio
+2215,"calle de Lagasca, Madrid, 122"
+2216,calle de Trefacio
+2217,"calle Almirante, 18"
+2218,"calle de Villalar, 3"
+2219,"calle de Castelló, 37"
+2220,"Marqués de la Ensenada, 16"
+2221,"calle de Goya, 119"
+2222,plaza de Santa Ana
+2223,"calle de Panamá, 14"
+2224,calle de los Vascos
+2225,avenida de Nuestra Señora de Fátima
+2226,"avenida de América, 28"
+2227,plaza del Baile
+2228,"calle de Lagasca, 35"
+2229,"calle de Ferraz, 10"
+2230,"calle de Goya, 143"
+2231,"calle de Padilla, 39"
+2232,calle del Marqués de Mondéjar
+2233,"calle de San Joaquín, 16"
+2234,calle de Juan del Risco
+2235,"Doctor Castelo, 22"
+2236,"calle del General Pardiñas, 21"
+2237,"SANTIAGO, 12"
+2238,"calle de la Escalinata, Madrid, 8"
+2239,calle del Monasterio de Oseira
+2240,calle de Palencia
+2241,"calle del Pintor Ignacio de Zuloaga, 10"
+2242,calle de San Leonardo
+2243,"calle del Conde de Peñalver, 37"
+2244,Santa Susana
+2245,calle Bahía de Alicante
+2246,de Toledo
+2247,calle de la Arquitectura
+2248,calle de Elvira
+2249,CL EZEQUIEL SOLANA
+2250,calle de Vicente Gaceo
+2251,AV PABLO NERUDA
+2252,"calle de Andrés Mellado, 42"
+2253,"calle de José Ortega y Gasset, 44"
+2254,calle de Rodríguez Marín
+2255,"via Gran, 59"
+2256,"Balmes, 3"
+2257,"calle de San Mateo, 6"
+2258,"calle de Deyanira, 59"
+2259,CL OCHAGAVIA
+2260,"calle de Donoso Cortés, 34"
+2261,"calle de Ibiza, 46"
+2262,CL RAFAEL BERGAMIN
+2263,calle San Enrique
+2264,"CL SANTA VALENTINA, 5"
+2265,Gran Vía de San Francisco
+2266,"CL INFANTA MERCEDES, 62"
+2267,"calle de Isabel Clara Eugenia, 33"
+2268,"calle de los Peñascales, 23"
+2269,"calle de Jesús, 12"
+2270,"calle del General Díaz Porlier, 91"
+2271,"calle de Pelayo, 59"
+2272,calle de la Villa de Marín
+2273,"avenida de Europa, 27"
+2274,calle de Ulises
+2275,"calle de Ayala, 119"
+2276,calle de Ezequiel Solana
+2277,"Gran Vía, 68"
+2278,plaza de Mondariz
+2279,calle CRISTO
+2280,CL GABRIEL USERA
+2281,"paseo de la Castellana, 121"
+2282,"terradas, 5"
+2283,"calle de Lagasca, 36"
+2284,AV COMERCIO
+2285,GL LOPEZ DE HOYOS
+2286,calle de Regueros
+2287,"CL MIGUEL ANGEL, 3"
+2288,"calle de la Esperanza, 6"
+2289,"calle de la Luna, 12"
+2290,calle del Arenal
+2291,calle de Montalbán
+2292,"plaza de Cristo Rey, 1"
+2293,"calle de Elfo, 4"
+2294,plaza del Duque de Pastrana
+2295,"calle Guabairo, 13"
+2296,"calle del Alcalde Sainz de Baranda, 18"
+2297,"calle del Marqués de Toca, 2"
+2298,calle de Agastia
+2299,calle de Fortunata y Jacinta
+2300,calle de Amara
+2301,"avenida de Pablo Iglesias, 15"
+2302,"calle de Ferrer del Río, 25"
+2303,"calle de los Jardines, 12"
+2304,"MIGUEL ANGEL, 3"
+2305,"calle de Don Álvaro de Bazán, 12"
+2306,calle de Alfonso Rodríguez Santamaría
+2307,CL NUÑEZ DE BALBOA
+2308,plaza del Doctor Laguna
+2309,"PJ BISBAL, 3"
+2310,calle de la Salvia
+2311,"calle de Preciados, 32"
+2312,calle de Larra
+2313,calle del Mezquite
+2314,calle de Palermo
+2315,calle Mariscal Gutiérrez de Otero
+2316,"calle de Ayala, 79"
+2317,calle del Tormes
+2318,"calle de Camarena, 207"
+2319,calle de la Genciana
+2320,"calle de Meléndez Valdés, 48"
+2321,"calle de Eugenio Caxes, 10"
+2322,calle de Santo Domingo de Silos
+2323,CL FRANCISCO NAVACERRADA
+2324,"calle Alcañiz, 14"
+2325,calle de Aranjuez
+2326,"calle de Juan Hurtado de Mendoza, 5"
+2327,"calle de Cartago, 16"
+2328,"PS DELICIAS, 65"
+2329,calle de Alfonso XI
+2330,Buenavista
+2331,"calle de Orense, 28"
+2332,CL HORTALEZA
+2333,"calle de Víctor Hugo, 4"
+2334,"calle Piqueñas, 28"
+2335,"calle Sedano, 2"
+2336,calle de Oquendo s/n
+2337,"calle del doctor esquerdo, 155"
+2338,calle de San Sebastián
+2339,"calle San Gumersindo, 10"
+2340,"calle de Padilla, 66"
+2341,"avenida de la Aviación, 6"
+2342,callejón de los Civiles
+2343,calle de Luis Vélez de Guevara
+2344,plaza Pinazo
+2345,"calle del Cardenal Cisneros, 75"
+2346,calle de Centenera
+2347,"calle de Fuencarral, 89"
+2348,calle de Pérez Cidón
+2349,calle de Federico Grases
+2350,"PS CASTELLANA, 188"
+2351,calle de Amparo Usera
+2352,calle de Monte Santo
+2353,"CL MALDONADO, 13"
+2354,calle Escosura
+2355,calle de la Sierra Vieja
+2356,calle del Monte Perdido
+2357,calle de Peña de la Atalaya
+2358,"calle del Doce de Octubre, 11"
+2359,calle de Suiza
+2360,calle de Elizondo
+2361,CL SAN ANTONIO
+2362,CL CORAZON DE MARIA
+2363,plaza Nuestra Señora de Loreto
+2364,calle de Belmonte de Tajo
+2365,Barrio Apóstol Santiago
+2366,"calle Leopoldo Alas Clarín, 4"
+2367,calle Rutilo
+2368,"CL OLIVO (ARAVACA), 40"
+2369,CL JAZMIN
+2370,Palacio s/n
+2371,"CL SANTA TECLA, 44"
+2372,"CL CARDENAL CISNEROS, 22"
+2373,"calle de Zurita, 33"
+2374,AV NTRA SEÑORA DE VALVANERA
+2375,AV FELIPE II
+2376,"calle de Monteleón, 30"
+2377,calle de Linneo
+2378,CL FELIPE DIAZ
+2379,calle de Luisa Fernanda
+2380,calle de la Virgen del Castañar
+2381,calle de César González Ruano
+2382,"CL APOSTOL SANTIAGO, 38"
+2383,CL CANAPIARE
+2384,calle de Alburquerque
+2385,calle del Hogar de Belén
+2386,calle Muelas del Pan
+2387,"calle del Plátano, 7"
+2388,CL HOGAR DE BELEN
+2389,PZ MORERIA
+2390,Barrio Rejas
+2391,"CL HOGAR DE BELEN, 65"
+2392,"calle del Camino de los Vinateros, 84"
+2393,glorieta Miguel Rubiales
+2394,"calle de Pablo Rica, 8"
+2395,"CL MAGDALENA, 18"
+2396,calle de Francos Rodríguez
+2397,calle de José del Pino
+2398,calle del Plátano
+2399,calle De Silvio Abad
+2400,calle San Florencio
+2401,CL NAVAS DE TOLOSA
+2402,"calle de Esteban Mora, 34"
+2403,"avenida de Niza, 40"
+2404,"CL LA DEL MANOJO DE ROSAS, 53"
+2405,"calle de José del Pino, 38"
+2406,CL CAVANILLES
+2407,calle de la Verja
+2408,calle del Cerro Blanco s/n
+2409,calle Mijas s/n
+2410,calle de Godella s/n
+2411,calle del Cerro Blanco
+2412,camino de Valderribas
+2413,AV MENENDEZ PELAYO
+2414,calle de Albarracín
+2415,"CL AYALA, 65"
+2416,calle de Nicolasa Gómez
+2417,calle Virgen del Sagrario
+2418,"calle del Pez, 16"
+2419,plaza Rendición de Breda
+2420,calle Alfonso Fernández
+2421,calle de Ferroviarios
+2422,CL FUENTESPINA
+2423,Barrio Delicias
+2424,"AV MENENDEZ PELAYO, 111"
+2425,calle de Rocafort s/n
+2426,avenida de Oporto s/n
+2427,calle de Arroyo de Fontarrón
+2428,avenida de Abrantes
+2429,calle de Montseny
+2430,calle de Alejandro Morán
+2431,calle de Pericles
+2432,calle de Ramón Calabuig
+2433,avenida de Oporto
+2434,calle de Budapest
+2435,calle de Luis Piernas
+2436,calle Isidra Jiménez s/n
+2437,calle del Real Madrid s/n
+2438,calle Alcañiz
+2439,Barrio Opañel
+2440,calle Isidra Jiménez
+2441,CL NICOLAS SANCHEZ
+2442,calle de Leoncio Bautista
+2443,calle del Corral de Cantos
+2444,calle Fausto Domingo
+2445,calle de Rocafort
+2446,calle Angela González
+2447,calle de Zaida
+2448,calle Campiña
+2449,calle del Real Madrid
+2450,paseo de los Perales
+2451,calle Escoriaza
+2452,calle del Doctor Espina
+2453,calle de la Encomienda de Palacios
+2454,calle de Nanclares de Oca
+2455,calle San Ambrosio
+2456,calle del Humilladero
+2457,calle de Méndez Álvaro
+2458,ronda de Toledo
+2459,plaza de la República del Ecuador
+2460,CL ESPAÑOLETO
+2461,calle de Cullera
+2462,calle Marchamalo
+2463,paseo de los Olmos
+2464,calle Condes de Barcelona
+2465,calle de Juan Pradillo
+2466,calle de la Esperanza
+2467,calle Lenguas
+2468,calle Teresita González Quevedo
+2469,CL ESPERANZA
+2470,"avenida del Mediterráneo, 69"
+2471,travesía Juan Francisco
+2472,calle de Saavedra Fajardo
+2473,calle de Enrique Fuentes
+2474,"calle Arturo Soria, 244"
+2475,"calle de Francisco Villaespesa, 49"
+2476,"CL HUMERA, 54"
+2477,"plaza de manuel becerra, 15"
+2478,AV MONFORTE DE LEMOS
+2479,calle Uría
+2480,calle de Escosura
+2481,calle Batalla de Torrijos
+2482,avenida de Pablo Neruda
+2483,calle de San Pedro de Cardeña
+2484,travesía de Felipe de Diego
+2485,CL JULIAN BESTEIRO
+2486,"calle de Cadarso, 2"
+2487,calle del Camino Viejo de Leganés
+2488,calle Son Bonet
+2489,calle Moraleja de Coca
+2490,calle de Fray José Cerdeiriña
+2491,CL SANTA ISABEL
+2492,calle de Juan Pantoja
+2493,calle Manganeso
+2494,Barrio Colina
+2495,calle de Manuel María Iglesias
+2496,calle de Juan Boscán
+2497,calle de la Torrecilla del Leal
+2498,calle de San Isidro Labrador
+2499,calle de Salas Barbadillo
+2500,del Ave María
+2501,calle del Camino de los Vinateros
+2502,"calle de Francisco Silvela, 5"
+2503,calle de Miguel Servet
+2504,calle de Bembibre
+2505,CL MONCADA
+2506,CL SALITRE
+2507,calle de la Diligencia
+2508,via Lusitana
+2509,calle de las Pedroñeras
+2510,calle de Ramón Serrano
+2511,calle de las Delicias
+2512,calle del Arroyo de las Pilillas
+2513,Barrio Pau de Carabanchel
+2514,"paseo de Alberto Palacios, 29"
+2515,"paseo de La Habana, 196"
+2516,PS CASTELLANA
+2517,calle del Marqués de Leis
+2518,calle del Ave María
+2519,calle de Húmera
+2520,calle de Cadarso
+2521,calle del Chimbo
+2522,calle Clara Campoamor
+2523,CL NTRA SEÑORA DE LA ANTIGUA
+2524,calle de las Islas
+2525,"avenida de Pablo Neruda, 3"
+2526,CL HERNAN CORTES
+2527,calle del Mesón de Paños
+2528,calle del Padre Rubio
+2529,"calle de la Espada, 12"
+2530,calle Topete
+2531,"calle del Desengaño, 24"
+2532,calle Pico Collarada
+2533,"carretera Villaverde a Vallecas, 295"
+2534,Barrio Montecarmelo
+2535,"calle del Príncipe de Vergara, 197"
+2536,calle de Sierra del Sabiñar
+2537,calle de Benjamín Palencia
+2538,calle de Eugenio Sellés
+2539,calle de Félix Rodríguez de la Fuente
+2540,CL BELISANA
+2541,calle San Juan de Ortega
+2542,calle de Amalia
+2543,calle de la Cañada
+2544,avenida de Pablo Iglesias
+2545,PZ HILANDERAS
+2546,calle Arcipreste de Hita
+2547,calle de Santa Polonia
+2548,paseo de las Yeserías
+2549,avenida del Doctor García Tapia
+2550,calle de Belfast
+2551,"calle de Don Ramón de la Cruz, 109"
+2552,calle de Astorga
+2553,"calle de Alonso Cano, 67"
+2554,paseo de la Infanta Isabel
+2555,calle de Rafael Fernández Hijicos
+2556,calle del Ángel de la Guarda
+2557,calle del Espinar
+2558,Barrio Atalaya
+2559,"calle y Travesía del Poeta Blas de Otero, 1"
+2560,calle de la Bola
+2561,calle de Aguilar de Campóo
+2562,calle de Nuria
+2563,calle de Sánchez Bustillo
+2564,Barrio Casa de Campo
+2565,calle Manuel Lamela
+2566,calle de Bernardino de Antequera
+2567,plaza Sierra de Caurel
+2568,calle Maracena
+2569,Barrio Moscardó
+2570,calle Dodge
+2571,calle de Alfonso XIII
+2572,calle de Lillo
+2573,calle de los Montes Pirineos
+2574,calle Rafael Finat
+2575,"calle de Isabelita Usera, 18"
+2576,calle de Artajona
+2577,calle Santa Prisca
+2578,calle Alcatraz s/n
+2579,Barrio Pilar
+2580,calle del Charleroi
+2581,calle de Faustino Osorio
+2582,calle de los Carrascales
+2583,calle de Carlos y Guillermo Fernández Shaw
+2584,avenida de Bruselas
+2585,CL SANTA BEATRIZ
+2586,plaza Francisca Pacheco
+2587,"calle de Prieto Ureña, 5"
+2588,avenida de Santa Eugenia
+2589,bulevar de Indalecio Prieto
+2590,"calle de Doña Berenguela, 38"
+2591,plaza del Emperador Carlos V
+2592,CL CARRIL DE LOS CALEROS
+2593,calle de las Eras Altas
+2594,calle Cirilo Martínez Novillo
+2595,calle Lorenzo San Nicolás
+2596,"calle de Gabriela Mistral, 6"
+2597,calle de la Virgen de África
+2598,calle del General Ricardos s/n
+2599,alto de San Isidro
+2600,Barrio Lucero
+2601,calle de Marbella
+2602,"CL MATIAS TURRION, 14"
+2603,CL JORGE JUAN
+2604,"calle de la Virgen de los Peligros, 10"
+2605,calle de Borja
+2606,calle de Santa Juliana
+2607,calle de Sandalio López
+2608,calle del Corregidor Juan Francisco de Luján
+2609,CL SAN EUGENIO
+2610,calle de Sabadell
+2611,calle Perpetua Díaz
+2612,CL SAGASTA
+2613,"calle del Carnero, 13"
+2614,CL BRAVO MURILLO
+2615,calle del General Millan Astray
+2616,CL ESTEFANITA
+2617,"CL TREVIÑO, 5"
+2618,calle Estudio
+2619,CL ARROYO BUENO
+2620,"calle del Conde de Vistahermosa, 1"
+2621,plaza del Este
+2622,CL HACIENDA DE PAVONES
+2623,Barrio Marroquina
+2624,calle del Canal del Bósforo
+2625,"calle Cerro del Murmullo, 13"
+2626,"CL LAGO DE CONSTANZA, 7"
+2627,"CL AGUILAR DE CAMPOO, 25"
+2628,calle Sallaberry
+2629,"calle de José Ortega y Gasset, 87"
+2630,calle Fresno de Cantespino
+2631,paseo de Gigantes y Cabezudos
+2632,CL PERICLES
+2633,CL MONTE OLIVETI
+2634,calle del Doctor Urquiola
+2635,calle de Pablo Luna
+2636,CL ESTUDIO
+2637,"calle de Claudio Coello, 146"
+2638,calle Marqués de Monasterio
+2639,calle Castalia de Vallecas
+2640,calle Teresa Orozco
+2641,calle del Puerto de la Morcuera
+2642,calle Carlos Aurioles
+2643,CL DUQUE DE SESTO
+2644,Barrio Berruguete
+2645,Barrio La Paz
+2646,"calle de Julio Palacios, 24"
+2647,calle Luis Muriel
+2648,"calle de San Bernardo, 85"
+2649,calle de la Cruz del Sur
+2650,calle Sinfonía
+2651,calle San Fortunato
+2652,calle Sacromonte
+2653,calle de Agustín Calvo
+2654,calle de la Tacona
+2655,calle de Barbate
+2656,"calle de Triana, 4"
+2657,CL PEÑA UBIÑA
+2658,CL FERNANDO DIAZ DE MENDOZA
+2659,"CL SANTA ENGRACIA, 105"
+2660,"calle de la Madera, 31"
+2661,calle de Castillejos
+2662,calle de Emilio Ferrari
+2663,calle de Casalarreina
+2664,calle del Duque de Fernán Núñez
+2665,calle de Carlos Fuentes
+2666,calle de Eduardo Benot
+2667,calle de Belzunegui
+2668,calle de Guadalete
+2669,calle de Campuzano
+2670,CL HACHERO
+2671,"CL COMANDANTE BENITEZ, 7"
+2672,calle del Aguacate
+2673,calle de Llanes
+2674,calle Chocontá
+2675,avenida de Entrevías
+2676,calle del Parque de la Paloma
+2677,CL FERROVIARIOS
+2678,CL ANTONIO SALVADOR
+2679,CL CONDADO DE TREVIÑO
+2680,calle de Peña Ubiña
+2681,"avenida Provisional Ahijones Berrocales Dos, 171"
+2682,CL CAÑADA
+2683,calle del Padre Oltra
+2684,calle de Caleruega
+2685,paseo Imperial s/n
+2686,"calle del Arroyo del Olivar, 65"
+2687,calle de Gregorio Donas
+2688,calle Ferenc Puskas
+2689,calle de Madridejos
+2690,"CL ALCALDE SAINZ DE BARANDA, 17"
+2691,CL GUILLEN DE CASTRO
+2692,plaza de Vilaflor
+2693,calle de la Golondrina
+2694,"CL ACACIAS, 9"
+2695,"CL SANTIAGO RUSIÑOL, 4"
+2696,paseo Imperial
+2697,calle de Jaime Vera
+2698,calle de Carlos IV
+2699,calle de Eduardo Marquina
+2700,calle del Porvenir
+2701,calle Carolina Paíno
+2702,calle Aldeanueva de la Vera
+2703,"calle de Huesca, 26"
+2704,calle de Arlanza
+2705,calle de Sánchez Preciado s/n
+2706,carretera Villaverde a Vallecas
+2707,calle Graena
+2708,"calle de Gaztambide, 55"
+2709,CL RAMONET
+2710,calle de Cantalejo
+2711,calle Francisco Ruiz
+2712,calle de Arcos de Jalón
+2713,calle de Valle Inclán
+2714,calle de Candilejas
+2715,calle de Alejandro González
+2716,Barrio de San diego s/n
+2717,CL LA DEL MANOJO DE ROSAS
+2718,calle de Rodríguez Espinosa
+2719,calle de Marina Usera
+2720,calle Cabo Suceso Terrero
+2721,calle de Tucán
+2722,calle del Cabo de Tarifa
+2723,"calle del Monasterio de Caaveiro, 14"
+2724,CL ALDEANUEVA DE LA VERA
+2725,CL MUELA DE SAN JUAN
+2726,calle San Martín de Porres
+2727,CL OLIVAR
+2728,calle del Tercio
+2729,"avenida de la Gran Vía del Sureste, 42"
+2730,calle de Túnez
+2731,calle del Pico Cejo
+2732,"CL ALUCAS, 1"
+2733,"CL PUERTO DE POZAZAL, 37"
+2734,CL JAIME TERCERO
+2735,"calle del General Pardiñas, 110"
+2736,"plaza Cronos, 5"
+2737,calle de Joaquín Dicenta
+2738,calle de Pablo Lafargue
+2739,CL CASTO PLASENCIA
+2740,calle María Martínez Oviol
+2741,calle de Tracia
+2742,calle de la del Manojo de Rosas
+2743,calle Albatros
+2744,calle Nuestra Señora de la Soledad
+2745,"calle de Oviedo, 15"
+2746,calle Tucurinca
+2747,avenida de Pedro Diez
+2748,"calle de Hilarión Eslava, 46"
+2749,calle de Purchena
+2750,calle Centeno
+2751,calle de Godella
+2752,calle de Faustino Cordón Bonet
+2753,calle de Los Mesejo
+2754,Barrio 12 de Octubre-Orcasur
+2755,travesía de San Mateo
+2756,calle Teresa López Valcárcel
+2757,CL TOLEDO
+2758,calle de Marcelo Usera
+2759,CL BUENAVISTA
+2760,calle de María Zayas
+2761,CL PRIMAVERA
+2762,"calle de San Bartolomé, 13"
+2763,calle de Mota del Cuervo
+2764,calle Germán Pérez Carrasco
+2765,calle Lucano
+2766,calle de Joaquín María López
+2767,calle de Nuestra Señora del Perpetuo Socorro
+2768,calle de la Maquinilla s/n
+2769,calle Santa Comba
+2770,calle de Valdebernardo
+2771,calle de Carlota O’Neill
+2772,calle del Lago Iseo
+2773,CL DOCTOR ESQUERDO
+2774,calle de Eugenia de Montijo
+2775,"CL FERNANDEZ DE LOS RIOS, 27"
+2776,calle de Gumersindo Azcárate
+2777,calle Esteban de Arteaga
+2778,calle Antonio Calvo
+2779,calle de la Pilarica
+2780,calle Blandón
+2781,calle de Francisco José Arroyo
+2782,calle Volver a Empezar
+2783,"calle de la Paloma, 17"
+2784,calle Isabel Méndez
+2785,avenida de Daroca
+2786,calle del Doctor Tolosa Latour
+2787,"calle de la Infanta María Teresa, 7"
+2788,calle de Tablada
+2789,calle de Eduardo Rivas
+2790,calle Marcelino Castillo
+2791,calle Cereza
+2792,calle de Polvoranca
+2793,calle Vélez Blanco
+2794,calle de Tomás Bretón
+2795,calle de Guillén de Castro
+2796,CL LUIS CABRERA
+2797,calle de Villajimena
+2798,calle del Poeta Blas de Otero
+2799,calle de Pedro Antonio de Alarcón
+2800,calle de Cazorla
+2801,"CL PEÑUELAS, 43"
+2802,"calle de la Cruz del Sur, 5"
+2803,calle de San Juan de Mata
+2804,CL ATOCHA
+2805,calle de Aguilar del Río
+2806,AV AMERICA
+2807,De los Cerros s/n
+2808,carretera de Vicálvaro a la Estación de O'donnell
+2809,CL ANTONIO LOPEZ
+2810,calle de San Nicomedes
+2811,"calle de las Minas, 22"
+2812,CL SAN JAIME
+2813,"calle de Almansa, 54"
+2814,calle de Melilla
+2815,calle del Pinar de San José
+2816,"calle de Francisco Sancha, 22"
+2817,calle del Marqués de Toca
+2818,CL LENGUAS
+2819,buena vista s/n
+2820,"CL TOMAS BRETON, 1"
+2821,"calle de Covarrubias, 20"
+2822,CL OÑA
+2823,calle de Guatemala
+2824,calle de Tánger
+2825,calle de Villacañas
+2826,"calle de José Ortega y Gasset, 45"
+2827,calle de Sarria
+2828,calle de Saturnino Tejera
+2829,calle Virgen de las Nieves
+2830,calle Altos de Cabrejas
+2831,calle de Beire
+2832,calle de Nuestra Señora de la Antigua
+2833,avenida de la Verbena de la Paloma
+2834,calle de las Minas
+2835,"AV TALGO, 123"
+2836,calle del Cristo de la Fe
+2837,calle de Oña
+2838,CL VITAL AZA
+2839,calle San Valentín s/n
+2840,Barrio Vinateros
+2841,"calle del Poeta Joan Maragall, 51"
+2842,"CL PORTALEGRE, 86"
+2843,"CL TOLEDO, 130"
+2844,calle del Cañón del Río Lobos
+2845,plaza de Ribadeo
+2846,calle de la Marquesa de Silvela
+2847,calle de Alonso Cano s/n
+2848,"calle de Almansa, 16"
+2849,calle de la Vía
+2850,calle del Talco
+2851,"calle del Almendro, 22"
+2852,"calle del Tambre, 21"
+2853,"calle de Serrano, 215"
+2854,TR HORNO DE LA MATA
+2855,calle de la Fe
+2856,"calle de Cronos, 20"
+2857,calle Ordicia
+2858,calle de Puentelarra
+2859,calle Paulina Odiaga
+2860,calle de San Máximo
+2861,calle Saturnino Morán
+2862,calle de Camilo José Cela
+2863,PALOMERAS SURESTE
+2864,CL TERUEL
+2865,CL EMBAJADORES
+2866,"CL CACTUS, 1"
+2867,Barrio Campo de las Naciones-Corralejos
+2868,CL VIRGEN DE LLUC
+2869,calle de Seseña
+2870,calle de Albaida
+2871,calle Mirabel
+2872,CL REINA
+2873,calle Guacamayo
+2874,"calle de San Secundino, 21"
+2875,"calle de Gaztambide, 39"
+2876,calle de Jesús Aprendiz
+2877,calle de César Cort Botí
+2878,CL ISLAS CABO VERDE
+2879,plaza de la Marina Española
+2880,calle de Calvo Asensio
+2881,CL ASUNCION CASTELL
+2882,"paseo de las Delicias, 85"
+2883,calle Enrique Velasco
+2884,calle de Francisco Medrano
+2885,calle de García Luna
+2886,calle de Rodezno
+2887,calle de San Leopoldo
+2888,"calle de Calvo Asensio, 4"
+2889,CL SAN LEOPOLDO
+2890,"CL GABRIELA MISTRAL, 8"
+2891,"calle de la Cava Baja, 1"
+2892,calle Chantada
+2893,calle de las Magnolias
+2894,calle Río Salado
+2895,plaza Promesas
+2896,"calle de César Cort Botí, 85"
+2897,CL MARQUES DE URQUIJO
+2898,"calle del General Díaz Porlier, 32"
+2899,CL FRAY JOSE CERDEIRIÑA
+2900,calle de Alto de la Sartenilla
+2901,calle Julio Antonio
+2902,calle de Aquitania
+2903,calle de la Oca
+2904,Barrio Ensanche de Vallecas - La Gavia
+2905,"CL FERNANDO GARRIDO, 3"
+2906,calle Abella
+2907,calle Forges
+2908,"calle de Aguilafuente, 31"
+2909,calle del Divino Vallés
+2910,calle de Angosta de los Mancebos
+2911,"calle de Bravo Murillo, 297"
+2912,CL PONZANO
+2913,"calle de Luchana, 18"
+2914,calle de Benicarló
+2915,calle Arte Pop
+2916,calle Alberto Palacios
+2917,calle PARCELA RC.7.11.5. s/n
+2918,"calle Teresa López Valcárcel, 12"
+2919,"Emilio Muñoz, 47"
+2920,avenida de las Suertes
+2921,calle de la Hierbabuena
+2922,calle de la Marroquina
+2923,"calle de Núñez de Balboa, 115"
+2924,CL JACOBINIA
+2925,"calle del Monasterio de Sobrado, 6"
+2926,plaza de Cataluña
+2927,CL MANUEL GARCIA
+2928,calle Ángel Ripoll s/n
+2929,"calle de Santa Clara, 10"
+2930,calle Manuel Muiño Arroyo
+2931,"calle de la Marroquina, 26"
+2932,CL SAN LUCAS
+2933,Plazuela de los Artesanos
+2934,"calle de Núñez de Balboa, 69"
+2935,avenida de Carabanchel Alto
+2936,CL SANTA JULIANA
+2937,calle de Soledad Cazorla
+2938,calle Alcázar de San Juan
+2939,"calle de Francisco Silvela, 19"
+2940,"calle Alcalá, 489"
+2941,CL MARQUES DE LOZOYA
+2942,calle del Lucero
+2943,"calle de Fomento, 14"
+2944,calle de Villasandino
+2945,paseo de los Olivos
+2946,"avenida de Menéndez Pelayo, 79"
+2947,calle San Antonio de Padua s/n
+2948,calle del Rollo
+2949,calle Principal
+2950,calle Pilar Andrade
+2951,calle de Nuestra Señora de la Luz
+2952,"AV PIO XII, 92"
+2953,calle de Tarragona s/n
+2954,"calle de Sofía, 58"
+2955,calle de Ramón Pérez de Ayala
+2956,"calle SANTIAGO DE COMPOSTELA, 92"
+2957,CL SAN LAZARO
+2958,"calle de la Palma, 8"
+2959,CL CARLOS AURIOLES
+2960,calle Francisco Rioja
+2961,CL DONATO BAÑARES
+2962,calle Conrado del Campo
+2963,calle de Manresa
+2964,calle Alzina
+2965,CL CONDE RGUEZ S PEDRO
+2966,calle del Zodiaco
+2967,calle Pico de los Artilleros
+2968,CL SAMBARA
+2969,CL PRINCIPE DE VERGARA
+2970,calle de Julia Mediavilla
+2971,calle del Capitán Blanco Argibay s/n
+2972,calle de Rosalía de Castro
+2973,avenida de la Gran Vía del Sureste
+2974,"paseo Olivos, Madrid"
+2975,calle Matachel
+2976,calle Zaratán
+2977,calle de Regina Álvarez
+2978,Barrio Butarque
+2979,calle de Olid
+2980,calle de la Virgen de Lourdes
+2981,CL MARIA MERCEDES DE BORBON
+2982,CL LEONOR GONGORA
+2983,calle de San Mateo
+2984,calle del Pelicano
+2985,"calle del Monte Esquinza, 9"
+2986,Barrio Rosas
+2987,"calle de Don Ramón de la Cruz, 64"
+2988,calle del Puerto de Arlabán
+2989,calle Agustín de Iturbide
+2990,"calle Emigrantes, 18"
+2991,plaza de las Peñuelas
+2992,calle de las Navas de Tolosa
+2993,calle de Zúrich
+2994,calle de Gandía
+2995,calle del Lago Constanza
+2996,"CL MIRA EL RIO, 13"
+2997,Barrio Ambroz
+2998,calle de la Galería de Robles
+2999,del Águila
+3000,"calle del Águila, 14"
+3001,"ronda de Atocha, 33"
+3002,calle Tramontana
+3003,calle de la Sierpe
+3004,calle Canoa
+3005,calle de Guillermo de Osma
+3006,calle de Juan Duque
+3007,"avenida del General Perón, 80"
+3008,plaza de las Cortes
+3009,calle Puebla de Sanabria
+3010,calle de San Secundino
+3011,calle Virgen de las Viñas
+3012,calle de Santiago el Verde
+3013,calle del Gallo
+3014,calle de María Teresa Sáenz de Heredia
+3015,calle de Urgel
+3016,AV PADRE CIPRIANO
+3017,calle de las Cañas
+3018,calle de Ministriles
+3019,"calle Matachel, 20"
+3020,"calle Mendívil, 44"
+3021,calle de Antonio Arias s/n
+3022,"calle de la Pirra, Madrid, 14"
+3023,CL AGUILA
+3024,"calle de Diego de León, 29"
+3025,calle de la Huerta del Bayo
+3026,calle Padre Gregorio Céspedes
+3027,calle Vilches
+3028,"calle de Vallehermoso, 52"
+3029,CL VILLAGARCIA
+3030,calle de la Forsitia
+3031,calle de Eloy Gonzalo s/n
+3032,"calle de Lombía, 5"
+3033,calle de Rafael Bergamín
+3034,CL FUMISTERIA
+3035,"calle de los Sagrados Corazones, 5"
+3036,calle Veleta
+3037,CL MIRA EL SOL
+3038,calle de la Virgen de la Fuencisla
+3039,CL JUAN DUQUE
+3040,CL PINTOR ANTONIO SAURA
+3041,"calle del Padre Damián, 43"
+3042,calle Poema Sinfónico
+3043,calle del Duque de Sesto s/n
+3044,CL SANTA ANA
+3045,CL SEÑORES DE LUZON
+3046,calle de Campezo
+3047,CL PERIANA
+3048,calle Transversal Sexta
+3049,"CL YECORA, 10"
+3050,CL MARQUES DE AHUMADA
+3051,calle Carballino
+3052,calle de Nicolás Usera
+3053,calle de Bolarque
+3054,calle de Isabel la Católica
+3055,calle Cinco Lagunas
+3056,calle del Espejo
+3057,calle Eibar s/n
+3058,calle de Manuel González Longoria
+3059,calle de Pardo Bazán
+3060,calle de Fresnedillas
+3061,calle Eibar
+3062,calle Ariel
+3063,calle de Darío Aparicio
+3064,calle de Churruca
+3065,calle del Tambre
+3066,avenida Casa Quemada
+3067,"avenida del Talgo, 127"
+3068,calle Virgen de los Rosales
+3069,calle de Antonia Ruiz Soro
+3070,"calle de Cea Bermúdez, 48"
+3071,avenida de Filipinas
+3072,"calle de Ayala, 7"
+3073,CL PRADILLO
+3074,"calle de Núñez de Balboa, 22"
+3075,calle de Lepanto
+3076,calle de la Colegiata
+3077,carretera de Húmera
+3078,calle de Francisco Altimiras
+3079,calle de Antonio Maura
+3080,"CL LUNA, 20"
+3081,"calle Arturo Soria, 161"
+3082,calle de Manuela Malasaña
+3083,plaza de la Beata María Ana de Jesús
+3084,calle del Sándalo
+3085,calle de Jesús y María
+3086,avenida del Presidente Carmona
+3087,avenida del Arroyo del Santo
+3088,calle de Lagasca 146bis s/n
+3089,calle peguerinos
+3090,calle de San Cayetano
+3091,calle Madrigal
+3092,"paseo de La Habana, 20"
+3093,"calle del General Pardiñas, 95"
+3094,calle Gabriel Lobo
+3095,CL RISCOS DE POLANCO
+3096,"calle de Mercedes Fórmica, 33"
+3097,calle del Andarríos
+3098,calle de Joaquín Costa
+3099,"calle de Fuencarral, 15"
+3100,"calle de Blasco de Garay, 59"
+3101,calle de Juan de la Cierva
+3102,calle de María de las Mercedes de Borbón
+3103,"calle de San Nazario, 12"
+3104,"calle de Cervantes, 22"
+3105,"calle de Viriato, 39"
+3106,"avenida de Camilo José Cela, 7"
+3107,"calle del Doctor Zamenhof, 22"
+3108,calle Lamiaco s/n
+3109,"calle de la Alameda, 5"
+3110,calle del Rodio
+3111,calle de la Reina Mercedes
+3112,calle de Emilio Carrere
+3113,calle Otoño
+3114,calle de Magallanes
+3115,calle Alcalde Henche de la Plata
+3116,avenida de Europa
+3117,calle de los Abades
+3118,calle de Zaragoza
+3119,calle de Chapinería
+3120,PZ MANUEL RODRIGO
+3121,CL AMALIA
+3122,ronda de Sobradiel
+3123,calle del Valle de Toranzo
+3124,calle del Marqués de Lozoya
+3125,calle de las Orquídeas
+3126,calle del Galeón
+3127,Virgen de los Rosales
+3128,calle de Celeste
+3129,calle de Porfirio
+3130,calle de Sigüenza
+3131,CL SAN TELMO
+3132,calle de Hermenegilda Martínez
+3133,"calle de Virgen de Lluc, 38"
+3134,calle de Santiago de Compostela
+3135,calle del Carril de los Caleros
+3136,calle Antonio Prieto
+3137,calle la Pinilla
+3138,PZ CASTILLA
+3139,camino de Ganapanes
+3140,"calle del Conde de Peñalver, 34"
+3141,"calle de Hinojosa del Duque, 15"
+3142,"calle del Buen Gobernador, 9"
+3143,calle del Vizconde de Matamala
+3144,calle de Virgen de Lluc
+3145,calle del Condado de Treviño
+3146,calle de Nieremberg
+3147,calle del Conde de las Posadas
+3148,CL SOMBRERETE
+3149,calle Frascuelo
+3150,"calle de José Ortega y Gasset, 5"
+3151,"calle de Valdecanillas, 88"
+3152,"calle de Ajofrín, 18"
+3153,"calle de Goya, 30"
+3154,calle Arascués
+3155,"calle de Virgen de Lluc, 20"
+3156,"avenida de Guadalajara, 75"
+3157,"plaza Virgen del Romero, 7"
+3158,"calle de Gutierre de Cetina, 14"
+3159,"CL GENERAL CASTAÑOS, 7"
+3160,CL SANTA ENGRACIA
+3161,calle de Martín Martínez
+3162,"calle de Santa Felicidad, 28"
+3163,"avenida de Guadalajara, 53"
+3164,"calle Miguel de la Iglesia, 1"
+3165,"calle de Telémaco, 26"
+3166,"calle de San Emilio, 63"
+3167,calle del Castillo de Simancas
+3168,de la Fuente del Berro
+3169,calle de Miguel Yuste
+3170,plaza de Manuel Becerra
+3171,"calle Provisional Berrocales Ochenta y Uno, 10"
+3172,CL AUGUSTO GONZALEZ BESADA
+3173,"Madera, 32"
+3174,"calle de la Palma, 54"
+3175,Carrera de San Francisco
+3176,"CL CANTABRIA, 33"
+3177,calle de María Alonso
+3178,"calle de Medellín, 10"
+3179,Chueca - Justicia
+3180,calle de Estocolmo
+3181,"calle de Toledo, 176"
+3182,calle de El Españoleto s/n
+3183,"calle del General Pardiñas, 44"
+3184,"calle Prov Los Berrocales 111, 1"
+3185,"calle del Barquillo, 36"
+3186,CL GARCIA DE PAREDES
+3187,calle de Arturo Baldasano
+3188,"calle de las Azucenas, 87"
+3189,calle de San Joaquín
+3190,"calle Marqués de Monteagudo, 21"
+3191,calle Prudencio Álvaro
+3192,calle del Alcalde Luis Silvela
+3193,"Cerro del Campo, 31"
+3194,calle Cascanueces
+3195,calle de Orcasitas
+3196,"calle Alejandro Ferrant, 26"
+3197,calle del Arroyo
+3198,"Tarragona, 1"
+3199,avenida de Nuestra Señora de Valvanera
+3200," Alonso Cano, 68"
+3201,"Juan Pérez Zuñiga, 18"
+3202,"calle General Pardiñas, 83"
+3203,"CL SANTISIMA TRINIDAD, 6"
+3204,calle de la Bahía de Santander
+3205,"calle de Moreno Nieto, 16"
+3206,calle de Ariza
+3207,calle de Malcampo
+3208,calle de Juan de Arespacochaga y Felipe
+3209,callejón del Mellizo
+3210,plaza de José Moreno Villa
+3211,calle de Valdetorres de Jarama
+3212,pasaje Santa Felicidad
+3213,"calle Cantalejo, 19"
+3214,calle Azagra
+3215,calle Gutiérrez Canales
+3216,calle de Benito de Castro
+3217,"calle de las Islas de Cabo Verde, 74"
+3218,calle de Jordán
+3219,"calle General Oraá, 9"
+3220,calle del Quince de Agosto
+3221,calle de Calatorao
+3222,"calle de Mesena, 82"
+3223,calle de Jesús del Gran Poder
+3224,calle Tomelloso
+3225,"calle Doctor Guiu, 57"
+3226,"calle de Sánchez Pacheco, 72"
+3227,"calle Simpatía, 11"
+3228,"calle Gral. Pardiñas, 35"
+3229,"calle Montejurra, 5"
+3230,"calle de Llodio, 4"
+3231,"calle José Abascal, 57"
+3232,calle de la Virgen de los Rosales
+3233,"Juan de Austria, 11"
+3234,"calle Andrés Mellado, 90"
+3235,"calle Parcela 6.18.2 Etapa, 3"
+3236,calle la Ilíada
+3237,"calle de Bueso de Pineda, 76"
+3238,"calle Provisional Berrocales Setenta y Nueve, 28"
+3239,calle de Jacometrezo
+3240,calle de los Hermanos Carpi
+3241,"calle del Valle de Toranzo, Madrid"
+3242,"Juan de Vera, 13"
+3243,calle de Guisona
+3244,calle de Calahorra
+3245,calle Alcalde López Casero
+3246,"calle de Federico Agustí, 5"
+3247,"de las Fuerzas Armadas, 328"
+3248,calle de San Mariano
+3249,plaza del Pintor Lucas
+3250,calle de Santa Genoveva
+3251,calle de Arapiles
+3252,calle Guecho
+3253,calle del Doctor Gómez Ulla
+3254,calle De Hontanares
+3255,calle Continente
+3256,calle de San Felipe
+3257,calle de Braulio Gutiérrez
+3258,"calle de la Salud, 15"
+3259,"calle Jordán, 13"
+3260,calle de Loreto y Chicote
+3261,calle Puerto del Pico
+3262,CL GOYA
+3263,"calle de Nicasio Gallego, 13"
+3264,"avenida Mayorazgo, 34"
+3265,avenida de Brasilia
+3266,calle de Tetuán
+3267,calle de Ceuta
+3268,calle Lamiaco
+3269,"calle Bergantín, 7"
+3270,"Fucar, 5"
+3271,plaza Virgen del Romero
+3272,calle de la Villa de Churriana
+3273,calle de Santurce
+3274,calle de Roma
+3275,calle de Quevedo
+3276,Barrio Campamento
+3277,avenida de los Prunos
+3278,"paseo de la Castellana, 128"
+3279,calle del Montserrat
+3280,calle del Príncipe Carlos
+3281,calle de Argüeso
+3282,avenida de las Piceas
+3283,calle de Rafael de la Hoz
+3284,calle de los Labradores
+3285,de Arespacochaga y Felipe
+3286,calle de San Claudio
+3287,del Callao
+3288,calle María Domingo
+3289,calle de Salasierra
+3290,calle Venta Vieja
+3291,CL GABINO JIMENO
+3292,calle de Eduardo Chillida
+3293,calle Polibea
+3294,calle de Guadalajara
+3295,calle de Juan Pérez Zúñiga
+3296,calle de Dolores Romero
+3297,calle de Julián Rabanedo
+3298,calle San Herculano
+3299,"calle Alcalá, 193"
+3300,calle de Nuestra Señora de Araceli
+3301,plaza de San Miguel
+3302,calle del Concejal Francisco José Jiménez Martín
+3303,calle de Camarena
+3304,"alameda del Valle, 22"
+3305,"calle Martín Muñoz de las Posadas, 7"
+3306,plaza de Olavide s/n
+3307,calle del Fósforo
+3308,CL SERRANO ANGUITA
+3309,calle del Marqués de Zafra
+3310,calle de José Arcones Gil
+3311,"calle de San Vicente Ferrer, 20"
+3312,calle de Puenteareas
+3313,Calle de Lagasca
+3314,calle de la Ribera del Manzanares
+3315,calle Guarnicioneros
+3316,"calle de Hermosilla, 121"
+3317,"CL ESCUADRA, 13"
+3318,calle de Umbría
+3319,calle de Cercis
+3320,"calle del General Díaz Porlier, 99"
+3321,calle del Marqués de Portugalete
+3322,"calle del General Pardiñas, 82"
+3323,calle de Albares de la Ribera
+3324,calle del Apóstol Santiago
+3325,paseo del Zurrón
+3326,calle de Bárbara de Braganza
+3327,calle Juan Zofío
+3328,calle Caribe
+3329,avenida de Palomeras
+3330,calle Valentín Llaguno
+3331,calle del Pinzón
+3332,plaza de Puerto de la Cruz
+3333,calle de Mesonero Romanos
+3334,avenida Gran Vía del Este
+3335,"calle de El Españoleto, 11"
+3336,calle de María Antonia
+3337,CL MONASTERIO DE LAS HUELGAS
+3338,"calle de la Palma, 18"
+3339,"calle de la Lonja de la Seda, 27"
+3340,calle de Luisa Andrés
+3341,AV GRAN VIA DEL ESTE
+3342,calle de Peña de Francia
+3343,calle de Vicenta Jiménez
+3344,CL FRESNO DE CANTESPINO
+3345,CL VELAZQUEZ
+3346,calle Invencibles
+3347,calle Valderrobres
+3348,calle de Arganda
+3349,calle de Bernardino Obregón
+3350,calle de Zaldívar
+3351,"Libertad, 11"
+3352,"calle de José Antonio Rebolledo y Palma, 20"
+3353,"calle del Pintor Ignacio de Zuloaga, 12"
+3354,"calle de Laponia, 29"
+3355,"calle de Berrocal, 52"
+3356,calle de Eduardo Barreiros
+3357,"avenida del Euro, 27"
+3358,"calle de la Mezquita de Córdoba, 2"
+3359,"calle de Berrocal, 56"
+3360,calle San Remigio
+3361,"avenida de El Ferrol, 2"
+3362,"calle Corral de Almaguer, 12"
+3363,calle Julio Calvo
+3364,calle Cangas de Onís
+3365,calle del Halcón
+3366,calle Corregidor Rodrigo Rodríguez
+3367,calle de Sierra Gádor
+3368,calle de Almería
+3369,calle de Castrojeriz
+3370,calle de Santa Cruz de Mudela
+3371,"CL TOTANA, 42"
+3372,"CL GENERAL ALVAREZ DE CASTRO, 3"
+3373,CL SANTA AGUEDA
+3374,Valdeacederas
+3375,"calle de Isabel Clara Eugenia, 62"
+3376,calle Castro de Oro
+3377,calle de Aizgorri
+3378,"avenida de Pablo Iglesias, 24"
+3379,calle del Hierro
+3380,avenida de Betanzos
+3381,CO MILITAR CUATRO VIENTOS
+3382,CL SIMCA
+3383,calle de Andrés Borrego
+3384,calle de Luis Lopez
+3385,calle de Juan de Juanes
+3386,CL FRANCOS RODRIGUEZ
+3387,travesía del Conde Duque s/n
+3388,calle Marquesa de Argüeso
+3389,CL ZURBARAN
+3390,calle Luis Missón
+3391,calle de Antonio de Leyva
+3392,calle de Sangenjo
+3393,calle de Teresa Maroto
+3394,Lavapies-Embajadores
+3395,calle del Corregidor Diego de Valderrábano
+3396,CL ALFREDO MARQUERIE
+3397,calle de Campezo s/n
+3398,calle de Elvira Barrios
+3399,calle de la Flor de Lis s/n
+3400,calle Acamar
+3401,calle de Puerto Rico
+3402,"calle de Manuel González Longoria, 8"
+3403,calle de Valcarlos s/n
+3404,PZ REPUBLICA ARGENTINA
+3405,calle de Alonso Núñez
+3406,calle de Julián Zugazagoitia
+3407,"calle de Felipe III, 6"
+3408,Lavapies Embajadores
+3409,calle de Antonia Calvo
+3410,calle del Archiduque Alberto
+3411,calle de la Alegría de la Huerta
+3412,avenida del Camino de Santiago
+3413,calle de la Flor de Lis
+3414,CL ZALAMEA
+3415,calle Peña Rubia
+3416,"paseo de San Francisco de Sales, 15"
+3417,calle Víctor González
+3418,calle de Roa
+3419,CL RODRIGUEZ SAN PEDRO
+3420,calle de Gallur
+3421,"calle de Valverde, 18"
+3422,calle Calcio
+3423,calle de Anoeta
+3424,calle de Mozart
+3425,CL BLASCO DE GARAY
+3426,CL ZARATAN
+3427,"calle de Antonio López, 139"
+3428,calle de Vegafría
+3429,calle Campotéjar
+3430,MAGALLANES
+3431,"PZ MANOLETE, 5"
+3432,"CL PRINCIPE DE VERGARA, 28"
+3433,calle de los Yébenes
+3434,calle de Antonio Casero
+3435,"calle de Evaristo San Miguel, 13"
+3436,CL MOLINS DE REY
+3437,"calle de María Juana, 14 B"
+3438,calle de las Trompas
+3439,calle de Jaime el Conquistador
+3440,avenida Real
+3441,calle Motilla del Palancar
+3442,calle de la Infanta Mercedes s/n
+3443,"calle de Jesús del Valle, 28"
+3444,"calle de Santa Teresa, 14"
+3445,calle de Berrocal
+3446,calle Protogina
+3447,calle del Arroyo del Olivar
+3448,calle Andrómeda
+3449,CL ZURBANO
+3450,plaza de Santo Domingo
+3451,calle del Radio
+3452,plaza Sierra De Magina
+3453,calle de Peña Gorbea
+3454,"plaza de los Mostenses, 5"
+3455,"avenida Provisional Ahijones Berrocales Cuatro, 85"
+3456,"plaza Marqués de Salamanca, 11"
+3457,calle del Cañaveral
+3458,plaza de Gabriel Miró
+3459,calle de Sierra Salvada
+3460,calle de los Pinillas
+3461,"calle Bravo Murillo, 335"
+3462,calle de San Cipriano
+3463,calle Neguilla
+3464,"calle del Jardín de la Duquesa, 19"
+3465,calle de Quintiliano
+3466,A-6
+3467,calle de Gonzalo Herrero
+3468,avenida de Francisco Pi y Margall
+3469,CL VINAROZ
+3470,vereda de la Cebolla s/n
+3471,"calle de Aguarón, 31"
+3472,"calle Leopoldo Alas Clarín, 2"
+3473,calle de Nájera
+3474,calle de Amorebieta
+3475,camino de Perales
+3476,calle Carlina
+3477,calle de Rosa de Silva
+3478,avenida de Las Águilas
+3479,"calle Germán Pérez Carrasco, 40"
+3480,calle de Tembleque
+3481,"calle Esperanza Sánchez Carrascosa, 45"
+3482,calle Isla de Tavira
+3483,"AV BETANZOS, 74"
+3484,calle de Sierra Carbonera
+3485,calle de las Islas Gilbert
+3486,"calle Carretera, 27"
+3487,calle Luis de la Torre
+3488,calle de Antonio Salvador
+3489,calle de Alejandro Sánchez
+3490,calle de Bruno Abúndez
+3491,camino del Barrial
+3492,calle de Gomeznarro
+3493,"calle de Pelayo, 8"
+3494,"calle Azofra, 24"
+3495,plaza del General Vara de Rey
+3496,avenida de El Ferrol
+3497,calle de Argos
+3498,calle de Álava
+3499,calle Alondra
+3500,calle de Asura
+3501,"calle Sauco, 19"
+3502,"calle Pleyades - Ana Teresa, 8"
+3503,calle de Antonio López Torres
+3504,"calle de la Caridad, 20"
+3505,calle de las Normas
+3506,calle de Agustín de Betancourt
+3507,"calle de Ruiz, 28"
+3508,calle Río San Pedro
+3509,calle de Antonio
+3510,calle de Dionisio Ridruejo
+3511,calle de Tomás García
+3512,calle de Getafe
+3513,calle Provisiones
+3514,calle del Corindón
+3515,calle de Mariano Benlliure
+3516,calle de Rafael Villa
+3517,calle de Portalegre
+3518,"calle Alfar, 7"
+3519,avenida de Niceto Alcalá Zamora
+3520,calle de Jerónima Llorente
+3521,calle del Real Betis
+3522,CL DUQUESA DE CASTREJON
+3523,"calle de Julián Camarillo, 47 A"
+3524,"calle del Doctor Esquerdo, 22"
+3525,calle de Sierra Elvira
+3526,CL JUAN PORTAS
+3527,CL VILLACARRILLO
+3528,calle de Canapiare
+3529,paseo de la Chopera
+3530,CL ARTURO SORIA
+3531,calle de Gonzalo de Berceo
+3532,de Rafael Villa
+3533,calle Buendía
+3534,calle Magín Calvo
+3535,CL SANTA SUSANA
+3536,calle Santiago Rusiñol
+3537,calle de Francisco Suárez
+3538,calle de Pegaso
+3539,calle del Capitán Salazar Martínez
+3540,"calle de Espartinas, 7"
+3541,paseo de la Ermita del Santo
+3542,calle del Maestro Alonso
+3543,"calle Fuentemilanos, 5"
+3544,"calle de Ribadavia, 14"
+3545,calle de Úbeda s/n
+3546,"calle de Martí, 4"
+3547,"CL ESTAFETA, 25"
+3548,"calle de Juan Bravo, 66"
+3549,"calle del León, 10"
+3550,"CL ILUSTRACION, 19"
+3551,calle Diego Manchado
+3552,calle Campotéjar s/n
+3553,calle de Zazuar
+3554,calle de García de Paredes s/n
+3555,calle de Ruiz de Alarcón
+3556,calle de Santa Alicia
+3557,calle la Española
+3558,calle de Noblejas
+3559,avenida de Valladolid
+3560,calle Thader
+3561,calle de Mira el Río Baja
+3562,calle de Monseñor Oscar Romero
+3563,CL FRANCISCO RICCI
+3564,calle María Moliner
+3565,calle Cristo de la Victoria
+3566,calle de Calahorra s/n
+3567,calle Alfaro
+3568,calle de la Sierra de Meira
+3569,calle de Luis Jiménez de Asúa
+3570,calle de Puñonrostro
+3571,calle de Leonor de la Vega
+3572,calle de José Bergamín
+3573,calle del Jazmín
+3574,calle de Anastasia López
+3575,calle Sierra Aitana
+3576,calle del Poeta Esteban de Villegas
+3577,calle Leopoldo Alas Clarín
+3578,calle del Puerto de la Bonaigua
+3579,"calle del Amparo, 91"
+3580,"calle del Marqués de Santa Ana, 4"
+3581,calle Fornillos
+3582,"calle de Carretas, 33"
+3583,calle de Joaquín Lorenzo
+3584,calle de Alicún
+3585,calle Dobla
+3586,"calle del Idioma Esperanto, 20"
+3587,calle de los Faisanes
+3588,calle de Fuente del Saz s/n
+3589,calle del Gladiolo
+3590,calle Monte de Montjuich
+3591,avenida Badajoz
+3592,calle Sardineta
+3593,calle Sequeros
+3594,calle del Vesubio
+3595,calle León Bonnat
+3596,calle Sierra de Gor
+3597,calle de Pirra
+3598,calle de Sambara
+3599,avenida de Celio Villalba
+3600,calle Embalse de Navacerrada
+3601,calle San Basilio
+3602,calle Padre José María
+3603,travesía de Trifón Pedrero
+3604,calle de la Cal
+3605,calle Piqueñas
+3606,Velazquez
+3607,calle de Maqueda
+3608,camino de la Zarzuela
+3609,calle de Juan Español
+3610,calle de Carrero Juan Ramón
+3611,calle Eider
+3612,"calle del Salitre, 38"
+3613,"calle de Santa Engracia, 78"
+3614,calle de Andorra
+3615,"calle del General Pardiñas, 42"
+3616,calle de Alfarnate
+3617,calle Arte Expresionista
+3618,CL ORENSE
+3619,CL ALONSO NUÑEZ
+3620,CL MONROY
+3621,calle de José Donoso
+3622,calle de Julián Hernández
+3623,"calle San Lamberto, 19"
+3624,calle Lagartera
+3625,CL SANTURCE
+3626,calle de Jordi Solé Tura
+3627,calle del Puerto de Balbarán
+3628,calle de Juan Montalvo
+3629,calle de Tribulete
+3630,calle Jabirú
+3631,Barrio Hellín
+3632,calle Doctor Iglesias Fernández
+3633,ronda del Sur
+3634,"calle de Velarde, 18"
+3635,calle Adora
+3636,calle de San Jenaro
+3637,calle del Puerto Canfranc
+3638,"calle de Guzmán el Bueno, 117"
+3639,calle de Arturo Soria s/n
+3640,calle de Aceuchal
+3641,calle de Pascual Rodríguez
+3642,calle de Arregui y Aruej
+3643,calle de Altamirano s/n
+3644,calle del Párroco Don Emilio Franco
+3645,CL JARDINES
+3646,calle de Carolina Baeza
+3647,calle Agustín Rodríguez Bonat
+3648,"calle de Castelló, 98"
+3649,calle de Alcalá s/n
+3650,calle Eduardo Morales
+3651,calle de Villamayor de Santiago
+3652,avenida Provisional Gran Vía De Vicálvaro
+3653,CL VICENTE ESPINEL
+3654,calle Trole
+3655,calle de Ramón Gómez de la Serna
+3656,"calle de Alcántara, 5"
+3657,calle de Santiago Alió
+3658,"calle de Núñez de Balboa, 10"
+3659,CL CANOA
+3660,calle Alborea
+3661,calle de Tomás Borrás
+3662,calle Mudela
+3663,"AV MEDITERRANEO, 16"
+3664,calle de la Isla de Arosa
+3665,paseo de Alberto Palacios
+3666,calle de los Mancebos
+3667,calle del Sotillo
+3668,CL CINE
+3669,"calle de López de Hoyos, 11"
+3670,"CL AGUAS, 4"
+3671,calle de Serrano Galvache
+3672,calle del Cerro del Castañar
+3673,CL LOPEZ DE HOYOS
+3674,avenida Real de Pinto
+3675,"calle de Joaquín María López, 12"
+3676,plaza de Valvanera
+3677,calle de Emiliano Barral
+3678,calle Carmen Amaya
+3679,"del Olivar, 35"
+3680,"AV SAN LUIS, 44"
+3681,"CL LAGASCA, 27"
+3682,CL HILARION ESLAVA
+3683,"calle de Velázquez, 86"
+3684,"avenida de Badajoz, 15"
+3685,calle Arechavaleta
+3686,calle Arnedo
+3687,"calle de La Masó, 93"
+3688,calle Avestruz
+3689,avenida de San Diego
+3690,CL ESCUADRA
+3691,"calle de Bocángel, 19"
+3692,"calle de El Escorial, 26"
+3693,"CL DIEGO DE LEON, 10"
+3694,"calle Afueras a Valverde, 12"
+3695,"calle de García de Paredes, 84"
+3696,"CL FERNANDEZ DE LA HOZ, 52"
+3697,"calle de Carlos Martín Álvarez, 34"
+3698,"calle de Ciudad Real, 8"
+3699,calle Sedano
+3700,calle De La Marañosa
+3701,calle de las Fuentes
+3702,calle de Ribadavia
+3703,CL MAESTRO ALONSO
+3704,calle de Glyceria
+3705,"calle de Tetuán, 20"
+3706,calle Gandhi
+3707,calle de los Navalmorales
+3708,calle del Alerce
+3709,calle de Benimamet
+3710,calle del Río Nervión
+3711,calle de Puntallana
+3712,"calle de Gutierre de Cetina, 84"
+3713,calle del Arte Figurativo
+3714,calle de Betancunia
+3715,calle de Rodríguez Vega
+3716,calle de Carlos Hernández
+3717,calle Moscareta
+3718,calle del Idioma Esperanto
+3719,calle de la Rábida
+3720,calle de Juan Álvarez Mendizábal s/n
+3721,CL ALIGUSTRE
+3722,calle de Vélez Blanco
+3723,"calle Alcatraz, 13"
+3724,CL PAZ
+3725,calle del Cine
+3726,calle de Fráncfort
+3727,avenida de Buenos Aires
+3728,calle de la Virgen del Coro
+3729,"Velarde, 16"
+3730,"Carmen, 16"
+3731,calle de Mestanza
+3732,"calle de Quijada de Pandiellos, 36"
+3733,calle de los Jaramagos
+3734,calle Laviana
+3735,de la Colegiata
+3736,calle de Sebastián Elcano
+3737,Embajadores Lavapies
+3738,"calle del León, 3"
+3739,CL CONSERVEROS
+3740,plaza de San Nicolás
+3741,calle del Comercio
+3742,calle de la Inmaculada Concepción
+3743,"CL SANTA ENGRACIA, 49"
+3744,calle Cardenal Belluga
+3745,"calle de Arriaga, 15"
+3746,calle Santa María Reina
+3747,"calle de Ayala, 55"
+3748,CL ALFREDO CASTRO CAMBA
+3749,via Gran s/n
+3750,calle de Ambrosio Vallejo
+3751,calle de Preciados
+3752,calle de Gerardo Diego s/n
+3753,calle Carranque
+3754,calle de Pinilla del Valle
+3755,calle de San Buenaventura
+3756,avenida del Monasterio de El Escorial
+3757,calle de Fernández de la Hoz s/n
+3758,calle de Alejandro Rodríguez
+3759,calle de Bacares
+3760,calle de San Telmo
+3761,calle de López de Aranda
+3762,"calle de José Calvo, 9"
+3763,"CL SANTA AUREA, 22"
+3764,calle de Cervera
+3765,calle Vecinos del Pozo
+3766,"CL AMOS DE ESCALANTE, 30"
+3767,calle Teodoredo
+3768,calle de San Bruno
+3769,calle de Navalmoral de la Mata
+3770,calle Batalla del Salado
+3771,"calle Aeronave, 18"
+3772,CL BENITO GUTIERREZ
+3773,calle de Ramón Pulido
+3774,CL GALIANA
+3775,calle de Santa Bárbara
+3776,calle de Manuel Uribe
+3777,calle del Castillo de Madrigal de las Altas Torres
+3778,"calle Fuentesaúco, 7"
+3779,calle de la Maquinilla
+3780,calle General Prim
+3781,calle Illescas
+3782,AV PADRE PIQUER
+3783,calle del Cerro de Valdecahonde
+3784,calle Juan Salas
+3785,avenida del Planetario
+3786,calle de Cristóbal Bordiú s/n
+3787,Gaztambide s/n
+3788,calle San Luciano
+3789,calle de Federico Mayo
+3790,avenida de Guadalajara
+3791,calle de Peña Cavero
+3792,calle del Doctor Martín Arévalo
+3793,calle de Martín de Vargas
+3794,calle de Cuart de Poblet
+3795,plaza de la Encarnación
+3796,calle de Pinos Baja
+3797,calle de las Pozas
+3798,"calle de Fernando el Santo, 24"
+3799,calle Gómez Acebo
+3800,CL VALDESANGIL
+3801,calle de San Baldomero
+3802,calle de Begoña
+3803,calle Blasón
+3804,calle Totana
+3805,calle Juan de Arolas
+3806,calle Paredes de Nava
+3807,calle de Miami
+3808,"CL VICTOR DE LA SERNA, 9"
+3809,CL MOTILLA DEL PALANCAR
+3810,calle Muela de San Juan
+3811,"calle de Nicasio Gallego, 17"
+3812,calle Teodoro Anasagasti y Algán
+3813,calle de la Colonia Erillas
+3814,"calle Carabias, 20"
+3815,"calle de Ayala, 134"
+3816,calle Marina Vega
+3817,calle de la Laguna
+3818,calle de José de Cadalso
+3819,calle del Alcalde Andrés Madrid Dávila
+3820,calle Tinajo

@@ -1,0 +1,449 @@
+categoryID,category
+1,Museum
+2,Coworking space
+3,Bilingual school
+4,General education school
+5,Mediterranean restaurant
+6,Grocery store
+7,Restaurant
+8,General store
+9,Supermarket
+10,Natural goods store
+11,Tapas bar
+12,Bar
+13,Bistro
+14,Convenience store
+15,Store
+16,Bakery
+17,Butcher shop
+18,Cold cut store
+19,Discount supermarket
+20,Food producer
+21,Fish store
+22,Fresh food market
+23,Charcuterie
+24,Ham shop
+25,Food and beverage consultant
+26,Fruit and vegetable store
+27,Bazar
+28,Winery
+29,Shopping mall
+30,Espresso bar
+31,Pastry shop
+32,Cake shop
+33,Seafood store
+34,Market
+35,Greengrocer
+36,Candy store
+37,Produce market
+38,Promotional products supplier
+39,Architecture firm
+40,Cafe
+41,Business center
+42,Wellness center
+43,Hostel
+44,Gymnastics center
+45,Psychologist
+46,Office space rental agency
+47,Specialized clinic
+48,Learning center
+49,Medical Center
+50,Graduate school
+51,Educational institution
+52,Religious organization
+53,Training center
+54,Local government office
+55,Education center
+56,Studying center
+57,High school
+58,Vocational school
+59,Boys' high school
+60,Secondary school
+61,Religious institution
+62,Middle school
+63,Dermatologist
+64,Nursing school
+65,Language school
+66,Ophthalmologist
+67,Rehabilitation center
+68,English language school
+69,Psychotherapist
+70,Research institute
+71,Co-ed school
+72,Reiki therapist
+73,Massage school
+74,Business school
+75,Industrial engineers association
+76,Social security office
+77,University
+78,Private university
+79,Skin care clinic
+80,Vocational gymnasium school
+81,Medical clinic
+82,Corporate office
+83,Business management consultant
+84,Plastic surgery clinic
+85,Association / Organization
+86,Doctor
+87,Non-profit organization
+88,Psychiatrist
+89,Life coach
+90,Youth organization
+91,Mortgage broker
+92,Research foundation
+93,Optometrist
+94,Public educational institution
+95,Industrial technical engineers association
+96,Primary school
+97,Religious school
+98,Charter school
+99,Religious destination
+100,Campground
+101,Residential college
+102,Higher secondary school
+103,Student dormitory
+104,Historical landmark
+105,Professional association
+106,Work clothes store
+107,Professional and hobby associations
+108,Elementary school
+109,Engineer
+110,Private educational institution
+111,Catholic school
+112,Preschool
+113,School center
+114,Agricultural engineer
+115,Combined primary and secondary school
+116,Foundation
+117,Educational consultant
+118,After school program
+119,College
+120,Architects association
+121,College of agriculture
+122,Health food restaurant
+123,Chapel
+124,Catholic church
+125,Kindergarten
+126,Art school
+127,Drama school
+128,Gourmet grocery store
+129,Italian restaurant
+130,Korean grocery store
+131,Novelty store
+132,Butcher shop deli
+133,Subway station
+134,Wine store
+135,Clothing store
+136,Sushi takeaway
+137,Cafeteria
+138,
+139,Breakfast restaurant
+140,Hotel
+141,Indoor lodging
+142,Flamenco theater
+143,Park
+144,Performing arts theater
+145,Art museum
+146,Local history museum
+147,Science museum
+148,Wax museum
+149,Tourist attraction
+150,Sculpture museum
+151,History museum
+152,Archaeological museum
+153,Ethnographic museum
+154,Modern art museum
+155,Maritime museum
+156,Bus station
+157,Open air museum
+158,War museum
+159,Bus stop
+160,Monument
+161,Sculpture
+162,Memorial
+163,Apartment
+164,Business to business service
+165,Beauty salon
+166,Government school
+167,Social welfare center
+168,State government office
+169,Sleep clinic
+170,Public medical center
+171,Medical laboratory
+172,Hearing aid store
+173,Podiatrist
+174,Coaching center
+175,Institute of technology
+176,Government office
+177,Neurosurgeon
+178,Marketing consultant
+179,Foreign languages program school
+180,Hair transplantation clinic
+181,Dental clinic
+182,Speech pathologist
+183,Professional organizer
+184,Orthopedic surgeon
+185,Place of worship
+186,Addiction treatment center
+187,Weight loss service
+188,Animal hospital
+189,Obstetrician-gynecologist
+190,Library
+191,Movie theater
+192,Outdoor movie theater
+193,DVD store
+194,Cultural landmark
+195,Film production company
+196,Audio visual equipment supplier
+197,Video production service
+198,Home cinema installation
+199,Auditorium
+200,Parking garage
+201,Full dress rental service
+202,Talent agency
+203,Escape room center
+204,Planetarium
+205,Television studio
+206,Transportation service
+207,IMAX theater
+208,Cultural center
+209,Theater production
+210,Comedy club
+211,Theater company
+212,Dinner theater
+213,Disco club
+214,Dance school
+215,Handicraft museum
+216,Stone carving
+217,Rail museum
+218,Bar & grill
+219,Garden
+220,Spanish restaurant
+221,Exhibit
+222,Train station
+223,Concert hall
+224,Rice restaurant
+225,Coffee shop
+226,Engineering school
+227,Public university
+228,Open university
+229,Public library
+230,University library
+231,Pub
+232,National library
+233,Law library
+234,Military school
+235,Engineering consultant
+236,Book store
+237,Vacation rental
+238,Stadium
+239,Technical university
+240,Buddhist temple
+241,Office
+242,Playground
+243,Publisher
+244,Dance hall
+245,Night club
+246,Mobile disco service
+247,Food manufacturing supply
+248,American restaurant
+249,Confectionery store
+250,Pie shop
+251,Transit station
+252,Transport hub
+253,Railway services
+254,Metropolitan train company
+255,ATM
+256,Train ticket agency
+257,Train ticket office
+258,Tram stop
+259,Public bathroom
+260,Shipping company
+261,Department of Transportation
+262,Tobacco shop
+263,Electrical substation
+264,Bike sharing station
+265,Fast food restaurant
+266,Public wheelchair-accessible bathroom
+267,Photo booth
+268,Railroad company
+269,Optician
+270,Luggage storage facility
+271,Hair removal service
+272,Holiday apartment
+273,Bus charter
+274,Bus company
+275,Special education school
+276,Children's camp
+277,Nursery school
+278,Music school
+279,Jewelry repair service
+280,School house
+281,Child care agency
+282,Civil examinations academy
+283,Judo school
+284,Day care center
+285,Modeling agency
+286,Fashion design school
+287,Adult education school
+288,Board of education
+289,House
+290,Boutique
+291,Shoe repair shop
+292,Cosmetics store
+293,Home goods store
+294,Vacation Rental
+295,Pan-Asian restaurant
+296,Real estate agency
+297,Construction company
+298,Adult entertainment club
+299,Watch store
+300,Party planner
+301,Limousine service
+302,Jewelry store
+303,Dating service
+304,Real estate consultant
+305,Travel agency
+306,Pawn shop
+307,Beauty supply store
+308,Fine dining restaurant
+309,Outlet store
+310,Outlet mall
+311,Adult entertainment store
+312,Parking lot
+313,Bank
+314,Flea market
+315,Clothes market
+316,Christmas market
+317,Electronics store
+318,Free parking lot
+319,Art gallery
+320,Non-governmental organization
+321,Women's clothing store
+322,Men's clothing store
+323,Shoe store
+324,Clothing alteration service
+325,Used clothing store
+326,Perfume store
+327,Fashion accessories store
+328,Children's clothing store
+329,Lingerie store
+330,Motorcycle parts store
+331,Underwear store
+332,Second hand store
+333,Laundromat
+334,Internet marketing service
+335,Vintage clothing store
+336,Dress store
+337,Baby clothing store
+338,Veterinarian
+339,Sportswear store
+340,Youth clothing store
+341,Karaoke bar
+342,Function room facility
+343,Churreria
+344,Ice cream shop
+345,Peruvian restaurant
+346,Bar tabac
+347,Sandwich shop
+348,Caterer
+349,Pizza restaurant
+350,Chinese restaurant
+351,Asian restaurant
+352,Mexican restaurant
+353,Family restaurant
+354,Ecuadorian restaurant
+355,Hamburger restaurant
+356,Galician restaurant
+357,Argentinian restaurant
+358,Gift shop
+359,Dessert shop
+360,Coffee store
+361,Children's party service
+362,Brunch restaurant
+363,Brewpub
+364,Coffee roastery
+365,Rock climbing gym
+366,Poke bar
+367,Yoga studio
+368,Dog cafe
+369,Media company
+370,Turkish restaurant
+371,Patisserie
+372,Sweets and dessert buffet
+373,Tapas restaurant
+374,Children's theater
+375,Dog park
+376,Tour agency
+377,Youth hostel
+378,Apartment building
+379,Lodging
+380,Athletic park
+381,Indoor playground
+382,State park
+383,City park
+384,Amusement center
+385,Audio visual consultant
+386,Barber school
+387,Tai chi school
+388,Learner driver training area
+389,Jujitsu school
+390,Cooking class
+391,Law school
+392,Cultural association
+393,E-commerce service
+394,Picture frame shop
+395,Furniture store
+396,Performing arts group
+397,Paper store
+398,Orthodox synagogue
+399,Beer hall
+400,Colombian restaurant
+401,Asturian restaurant
+402,Korean restaurant
+403,Valencian restaurant
+404,Japanese restaurant
+405,Basque restaurant
+406,Indian restaurant
+407,Yakitori restaurant
+408,Sushi restaurant
+409,Fusion restaurant
+410,Hair salon
+411,Post office
+412,Hairdresser
+413,Sporting goods store
+414,Quilt shop
+415,Notions store
+416,Department store
+417,Batik clothing store
+418,Dressmaker
+419,Recycling center
+420,Rock shop
+421,Pharmacy
+422,Fairground
+423,Manufacturer
+424,Car rental agency
+425,Minibus taxi service
+426,Dog day care center
+427,Soccer club
+428,Indoor swimming pool
+429,Football club
+430,Choir
+431,Fitness center
+432,Roller skating club
+433,Tennis instructor
+434,Comprehensive secondary school
+435,Dance club
+436,Sports club
+437,Swimming pool
+438,Sports school
+439,Flamenco school
+440,Painting studio
+441,Cramming school
+442,Ballet school
+443,Antique furniture restoration service
+444,University hospital
+445,Software company
+446,Academic department
+447,Furnished apartment building
+448,Bartending school
